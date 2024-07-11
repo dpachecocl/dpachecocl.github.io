@@ -16,7 +16,7 @@ description: Sitio personal
 ### Ubuntu 24LTS
 
 - [Mejoras de la terminal] https://github.com/dpachecocl/Ubuntu24LTS/blob/main/MejorasTerminal.md
-- [Instalacionde Tshark y (Wireshak] https://github.com/dpachecocl/Ubuntu24LTS/blob/main/Tshark%26Wireshark.md)
+- [Instalacionde Tshark y Wireshak] https://github.com/dpachecocl/Ubuntu24LTS/blob/main/Tshark%26Wireshark.md
 
 ## Contacto
 
