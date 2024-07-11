@@ -8,9 +8,9 @@ description: Sitio personal
 
 ## show run
 
-Mg. en Seguridad, Peritaje y Auditoría en Procesos Informáticos
-Ing. en Ciberseguridad
-Ing. en Telecomunicaciones
+* Mg. en Seguridad, Peritaje y Auditoría en Procesos Informáticos
+* Ing. en Ciberseguridad
+* Ing. en Telecomunicaciones
 
 ## Projects
 
