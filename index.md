@@ -13,10 +13,10 @@ description: Sitio personal
 * Ing. en Telecomunicaciones
 
 ## Apuntes
+### Ubuntu 24LTS
 
-- Project 1
-- Project 2
-- Project 3
+- [Mejoras de la terminal]: (https://github.com/dpachecocl/Ubuntu24LTS/blob/main/MejorasTerminal.md)
+- [Instalacionde Tshark y (Wireshak]: https://github.com/dpachecocl/Ubuntu24LTS/blob/main/Tshark%26Wireshark.md)
 
 ## Contacto
 
