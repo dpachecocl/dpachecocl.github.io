@@ -1,15 +1,16 @@
 ---
-title: Welcome to My Page
-description: This is my awesome website using the Hacker theme.
+title: dpachecocl
+description: Sitio personal
 ---
 
-# Welcome to My Page
+# Bienvenido a mi sitio personal
 
-This is my awesome website using the Hacker theme.
 
-## About Me
+## show run
 
-I'm a developer passionate about coding and technology.
+Mg. en Seguridad, Peritaje y Auditoría en Procesos Informáticos
+Ing. en Ciberseguridad
+Ing. en Telecomunicaciones
 
 ## Projects
 
@@ -17,6 +18,6 @@ I'm a developer passionate about coding and technology.
 - Project 2
 - Project 3
 
-## Contact
+## Contacto
 
-You can contact me at [my email](mailto:youremail@example.com).
+Puedes contactarme en [mi email](mailto:daniel.pacheco@usach.cl).
