@@ -12,7 +12,7 @@ description: Sitio personal
 * Ing. en Ciberseguridad
 * Ing. en Telecomunicaciones
 
-## Projects
+## Apuntes
 
 - Project 1
 - Project 2
