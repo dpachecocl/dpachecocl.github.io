@@ -21,11 +21,3 @@ description: Sitio personal
 ## Contacto
 
 Puedes contactarme en [mi email](mailto:daniel.pacheco@usach.cl).
-
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
