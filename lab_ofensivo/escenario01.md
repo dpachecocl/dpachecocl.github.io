@@ -43,7 +43,7 @@ ip dhcp pool V20
 ```
 ### RTB
 ```
-hostname RTS1-B
+hostname RTB
 !
 username dpacheco password lesand2024
 enable secret 2024
