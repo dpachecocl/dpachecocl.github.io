@@ -5,4 +5,5 @@ layout: default
 order: 2
 ---
 # Acerca de
-Bienvenido a la página Acerca de. Aquí encontrarás información sobre nuestro proyecto...
+## Daniel Sebastian Pacheco Pacheco
+Magíster en Seguridad, Peritaje y Auditoría en Procesos Informáticos - Ingeniero en Ciberseguridad - Ingeniero en Telecomunicaciones
