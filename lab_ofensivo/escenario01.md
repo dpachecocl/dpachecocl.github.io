@@ -90,6 +90,15 @@ int Gi1/2
  switchport mode access
  switchport access vlan 20
 ```
+
+## Reconocimiento usando Llaitun
+Avtivamos el ambiente virtual y ejecutamos Llaitun como root
+```
+cd Desktop/tools                                                         ─╯
+source ENV-LLAITUN/bin/activate   
+sudo $(which python) Llaitun.py --live 
+```
+
 ### Ejemplo Script para DTP (scapy Modo Libreria)
 ```
 from scapy.all import *
