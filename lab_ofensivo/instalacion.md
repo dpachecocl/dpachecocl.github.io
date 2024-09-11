@@ -64,3 +64,8 @@ parent: "Lab Ofensivo"
 * Al finalizar la instalación, opcionalmente se ofrece un **Toolset de SolarWinds** para comprar. En mi caso, no lo uso, por lo que seleccioné **No** y continué con **Siguiente** para finalizar la instalación.
 * Al abrir GNS3 por primera vez, aparecerá un **Setup Wizard**, donde debemos elegir la opción **Run appliances in a virtual machine**. Posteriormente, debemos asociarlo a VMware y a la máquina virtual creada en la sección anterior.
 * Si este proceso se realizó correctamente, en el panel de GNS3 aparecerá la máquina virtual con un botón verde indicando que está activa.
+
+# Configuración
+
+## GNS3
+* Una vez que GNS3 está en funcionamiento, es necesario agregar las imágenes de los dispositivos que se van a implementar. Estos pueden ser múltiples dispositivos, los cuales deben descargarse e incorporarse a GNS3. El listado de dispositivos compatibles se puede encontrar en [GNS3 Marketplace](https://www.gns3.com/marketplace/appliances). (Es importante tener en cuenta que algunas imágenes requieren cuentas de usuario o licenciamiento).
