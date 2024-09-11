@@ -1,5 +1,6 @@
 ---
+theme: "just-the-docs"
 title: "Instalación"
-parent: "Lab Ofensivo"
+layout: default
 order: 1
 ---
