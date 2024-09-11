@@ -47,4 +47,15 @@ parent: "Lab Ofensivo"
 * Posteriormente en la opcion Display desactivamos la opcion "Accelerate 3D graphics" y aceptamos los cambios.
 * Iniciamos la Maquina virtual
 * Seleccionamos la opcion "Try or Install Ubuntu"
-* 
+* Una vez iniciada la instalacion seleccionamos el idioma, opciones de accesibilidad, Seleccionamos el teclado, etc.
+* Luego creamos una cuenta, nombre de la maquina y contrasena, seleccionamos la zona horaria e iniciamos la instalacion.
+
+## GNS3 VM
+* Descomprimimos el archivo
+* Ejecutamos el archivo GNS3 VM.ova
+* Cuando nos pide seleccionar como abrir el archivo, elegimos VMware Workstation.
+* Le asigmanos un nombre, el directorio para esa nueva maquina virtual y seleccionamos importar.
+* Opcionalmente podemos editar la maquina virtual para asignar mas recursos.
+
+
+
