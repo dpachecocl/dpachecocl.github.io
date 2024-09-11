@@ -5,7 +5,7 @@ layout: default
 nav_order: 1
 parent: "Lab Ofensivo" 
 ---
-#Descarga de VMWare Workstarion 17
+# Descarga de VMWare Workstarion 17
 * Permite licenciarlo para uso personal en la actualidad.
 * Es necesario registrarse en Broadcom.com
 * Para este caso descargamos la version VMware-workstation-full-17.6.0-24238078.exe
