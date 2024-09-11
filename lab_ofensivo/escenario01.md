@@ -10,7 +10,7 @@ parent: "Lab Ofensivo"
 ![Escenario 01](https://github.com/dpachecocl/dpachecocl.github.io/blob/main/lab_ofensivo/Escenario%2001.png)
 ## Configuracion equipos de comunicaciones
 ### RTA
-'''
+```
 hostname RTA
 !
 username dpacheco password lesand2024
@@ -40,6 +40,6 @@ ip dhcp pool V10
 ip dhcp pool V20
  network 192.168.1.0 255.255.255.0
  default-router 192.168.1.1
- '''
+```
 ### RTB
 ### SW1
