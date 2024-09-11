@@ -77,7 +77,7 @@ int g0/0.20
 ```
 ### SW1
 ```
-hostname S1
+hostname SW1
 vlan 10
 vlan 20
 int Gi0/0
