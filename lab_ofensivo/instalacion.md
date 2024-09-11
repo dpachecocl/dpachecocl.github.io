@@ -35,15 +35,16 @@ parent: "Lab Ofensivo"
 * Al abrir VMware Workstation seleccionamos la opcion: "Use VMwaare Workstation for Personal Use"
 * Continuamos y finalizamos.
 
-  ## Ubuntu Desktop
-  * Una vez iniciado WMware seleccionamos la opcion de crear una nueva maquina virtual
-  * Elegimos la opcion Typical (recommended).
-  * Seleccionamos la opcion "I will install the operating system later"
-  * Seleccionamos la opcion de Linux - Ubuntu 64-bit.
-  * Indicamos el nombre para la Maquina virtual y la ubicacion.
-  * Seleccionamos el tamano del disco (200 GB) en mi caso y marcamos la opcion "Store virtual disk as a single file"
-  * Finalizamos
-  * Luego editamos la maquina virtual y en la opcion de CD/DVD asociamos la imagen ISO que descargamos de Ubuntu y aceptamos.
-  * Iniciamos la Maquina virtual
-  * Seleccionamos la opcion "Try or Install Ubuntu"
-  * 
+## Ubuntu Desktop
+* Una vez iniciado WMware seleccionamos la opcion de crear una nueva maquina virtual
+* Elegimos la opcion Typical (recommended).
+* Seleccionamos la opcion "I will install the operating system later"
+* Seleccionamos la opcion de Linux - Ubuntu 64-bit.
+* Indicamos el nombre para la Maquina virtual y la ubicacion.
+* Seleccionamos el tamano del disco (200 GB) en mi caso y marcamos la opcion "Store virtual disk as a single file"
+* Finalizamos
+* Luego editamos la maquina virtual y en la opcion de CD/DVD asociamos la imagen ISO que descargamos de Ubuntu.
+* Posteriormente en la opcion Display desactivamos la opcion "Accelerate 3D graphics" y aceptamos los cambios.
+* Iniciamos la Maquina virtual
+* Seleccionamos la opcion "Try or Install Ubuntu"
+* 
