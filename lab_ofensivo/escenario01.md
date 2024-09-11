@@ -98,6 +98,11 @@ cd Desktop/tools                                                         ─╯
 source ENV-LLAITUN/bin/activate   
 sudo $(which python) Llaitun.py --live 
 ```
+## Creacion de directorio para scripts de scapy
+```
+mkdir /home/lesand/Desktop/tools/scapy
+```
+
 ## Instalacion y ejecucion de scapy
 ```
 sudo apt-get install python3-scapy                                       ─╯
