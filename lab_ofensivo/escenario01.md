@@ -98,7 +98,11 @@ cd Desktop/tools                                                         ─╯
 source ENV-LLAITUN/bin/activate   
 sudo $(which python) Llaitun.py --live 
 ```
-
+## Instalacion y ejecucion de scapy
+```
+sudo apt-get install python3-scapy                                       ─╯
+sudo scappy
+```
 ### Ejemplo Script para DTP (scapy Modo Libreria)
 ```
 from scapy.all import *
