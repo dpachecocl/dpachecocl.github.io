@@ -59,8 +59,8 @@ parent: "Lab Ofensivo"
 * Opcionalmente, podemos editar la máquina virtual para asignar más recursos.
 
 ## GNS3
-* Ejecutamos el archivo GNS3-2.2.49-all-in-one-regular.exe
-* En la ventana de seleccion de componentes (Choose Components) dejamos las opciones por defecto seleccionadas (GNS3 Desktop y Tools) y seleccionamos siguiente. Nota: Em el poroceso de instalacion puede que alguna libreria ya la tengamos instalada, por lo que no sera necesario reinstalarlas, ademas en el proceso de instalacion pedira un correo para registar algunas herramientas como solar putty.
-* Al finalizar la instalacion opcionalmente ofrece un Toolset de solarwinds que se puede comprar que en mi caso no lo uso opcion no (seleccionar No) y siguiente para finalizar la instalacion.
-* Luego al abrir GNS por primera vez aparecera un "Setup Wizard" donde debo elegir la opcion "Run appliances in a virtual machine" el cual debo asociar posteriormente a VMware y la maquina virtual creada en la seccion anterior.
-* Si este proceso esta correctamente realizado en el panel de GNS3 aparecera esta maquina virtual con un boton verde.
+* Ejecutamos el archivo **GNS3-2.2.49-all-in-one-regular.exe**.
+* En la ventana de selección de componentes (**Choose Components**), dejamos las opciones por defecto seleccionadas (**GNS3 Desktop** y **Tools**) y seleccionamos **Siguiente**. Nota: Durante el proceso de instalación, es posible que algunas librerías ya estén instaladas, por lo que no será necesario reinstalarlas. Además, durante la instalación, se pedirá un correo para registrar algunas herramientas como Solar-Putty.
+* Al finalizar la instalación, opcionalmente se ofrece un **Toolset de SolarWinds** para comprar. En mi caso, no lo uso, por lo que seleccioné **No** y continué con **Siguiente** para finalizar la instalación.
+* Al abrir GNS3 por primera vez, aparecerá un **Setup Wizard**, donde debemos elegir la opción **Run appliances in a virtual machine**. Posteriormente, debemos asociarlo a VMware y a la máquina virtual creada en la sección anterior.
+* Si este proceso se realizó correctamente, en el panel de GNS3 aparecerá la máquina virtual con un botón verde indicando que está activa.
