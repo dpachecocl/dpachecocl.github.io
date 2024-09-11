@@ -10,7 +10,7 @@ parent: "Lab Ofensivo"
 ## VMWare Workstation 17
 * Permite licenciarlo para uso personal en la actualidad.
 * Es necesario registrarse en [Broadcom.com](https://www.broadcom.com/).
-* Para este caso, descargamos la versión **VMware-workstation-full-17.6.0-24238078.exe**.
+* Para este caso, descargamos la versión **VMware-workstation-full-17.5.2**.
 * [VMware Workstation Pro ahora disponible gratis para uso personal](https://blogs.vmware.com/workstation/2024/05/vmware-workstation-pro-now-available-free-for-personal-use.html)
 
 ## Ubuntu Desktop
