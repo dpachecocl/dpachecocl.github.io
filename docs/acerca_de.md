@@ -48,6 +48,12 @@ Acreditado para dictar los siguientes cursos:
 * **Caso de estudio Peritaje Informatico**  
   *Security Conference 2018 - Inacap Santiago Sur*
 
+* **Packet Crafting**  
+  *Patagonia Hacking Punta Arenas 2017*
+
+* **Packet Crafting usando Scapy**  
+  *Patagonia Hacking Araucania 2019*
+  
 * **Introduccion a la manipulacion de datos**  
   *Cybersecurity Week Conference 2022 - Capacitacion USACH*
 
