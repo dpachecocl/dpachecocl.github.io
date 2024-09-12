@@ -42,7 +42,7 @@ order: 2
 ### Instructor Cisco Networking Academy
 Acreditado para dictar los siguientes cursos:
 - CCNA
-- Network Secuirty
+- Network Security
 - CCNA CyberOps
 - CCNP Enterprise
   
