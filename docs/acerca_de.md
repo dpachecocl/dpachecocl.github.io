@@ -4,8 +4,6 @@ title: "Acerca de"
 layout: default
 order: 2
 ---
-# Acerca de
-
 ## Daniel Sebastian Pacheco Pacheco
 
 ### Educación
