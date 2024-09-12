@@ -61,6 +61,7 @@ Acreditado para dictar los siguientes cursos:
   *Cybersecurity Week Conference 2022 - Capacitacion USACH*
 
 * **Automatizando el analisis de vulnerabilidades en protocolos de networking**  
+  *8.8 Solidario 2018*
   *Lesand Tecnology Conference Peru 2020*
 
 ### Publicaciones
