@@ -44,5 +44,5 @@ order: 2
 - Docente destacado 2023 - Diplomados en Ciberseguridad (Capacitación USACH)
 - Docente destacado 2022 - Diplomados en Ciberseguridad (Capacitación USACH)
 - Reconocimiento a la excelencia en el desempeño de las funciones y compromiso con la misión de INACAP (2013)
-- Seleccionado como expositor en Seminario Nacional de Buenas Prácticas INACAP: Uso del foro en la enseñanza
+- Seleccionado como expositor en Seminario Nacional de Buenas Prácticas INACAP 2012: Uso del foro en la enseñanza
 - Primer lugar, Instructor Excellence Chile 2012 (Academias Cisco Chile)
