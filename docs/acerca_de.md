@@ -45,9 +45,10 @@ Acreditado para dictar los siguientes cursos:
 - CCNP Enterprise
 
 ### Publicaciones
-* Seguridad en redes de comunicaciones: Perspectivas y desafíosSeguridad en redes de comunicaciones: Perspectivas y desafíos
+### Publicaciones
+* **Seguridad en redes de comunicaciones: Perspectivas y desafíos**  
+  *Ingeniare Revista chilena de ingeniería* (30/06/2022)
 
-Ingeniare Revista chilena de ingeniería (30/06/2022)
 
 ### Reconocimientos
 - Docente destacado 2024 - Diplomados en Ciberseguridad (Capacitación USACH)
