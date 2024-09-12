@@ -44,7 +44,9 @@ Acreditado para dictar los siguientes cursos:
 - CCNA CyberOps
 - CCNP Enterprise
 
-### Publicaciones
+### Comunicaciones y ponencias
+* **Caso de estudio Peritaje Informatico**
+  *Security Conference 2018 - Inacap Santiago Sur
 ### Publicaciones
 * **Seguridad en redes de comunicaciones: Perspectivas y desafíos**  
   *Ingeniare Revista chilena de ingeniería* (30/06/2022)
