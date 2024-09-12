@@ -24,20 +24,20 @@ order: 2
 - Fortinet NSE4 (CIISA)
 - Implementador PCI (Capacitación USACH)
 - Gobierno y Gestión de la Ciberseguridad usando el NIST CSF (Capacitación USACH)
-- CCNA Cybersecurity Operations
-- CCNA R&S
-- CCNP Implementing Cisco IP Routing
-- CCNP Implementing Secure Converged WANs
-- CCNP SWITCH: Implementing IP Switching
-- CCNP TSHOOT: Maintaining and Troubleshooting IP Networks
-- Python Essentials
-- Network Security I
-- Network Security II
-- PCAP - Programming Essentials in Python
-- Panduit Network Infrastructure Essential
-- Network Programmability with Cisco APIC-EM
-- Introduction to the Internet of Everything
-- Introduction to IoT
+- CCNA Cybersecurity Operations (Cisco Networking Academy)
+- CCNA R&S (Cisco Networking Academy)
+- CCNP Implementing Cisco IP Routing (Cisco Networking Academy)
+- CCNP Implementing Secure Converged WANs (Cisco Networking Academy)
+- CCNP SWITCH: Implementing IP Switching (Cisco Networking Academy)
+- CCNP TSHOOT: Maintaining and Troubleshooting IP Networks (Cisco Networking Academy)
+- Python Essentials (Cisco Networking Academy)
+- Network Security I (Cisco Networking Academy)
+- Network Security II (Cisco Networking Academy)
+- PCAP - Programming Essentials in Python (Cisco Networking Academy)
+- Panduit Network Infrastructure Essential (Cisco Networking Academy)
+- Network Programmability with Cisco APIC-EM (Cisco Networking Academy)
+- Introduction to the Internet of Everything (Cisco Networking Academy)
+- Introduction to IoT (Cisco Networking Academy)
 
 ### Instructor Cisco Networking Academy
 Acreditado para dictar los siguientes cursos:
