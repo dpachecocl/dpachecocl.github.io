@@ -16,17 +16,17 @@ parent: "Lab Ofensivo"
 ## Ubuntu Desktop
 * Usaremos esta distribución de Ubuntu para realizar pruebas ofensivas.
 * Para este caso, descargamos la versión **24.04.1 LTS**.
-* [Descargar Ubuntu Desktop](https://ubuntu.com/download/desktop)
+* Descarga: [Ubuntu Desktop](https://ubuntu.com/download/desktop)
 
 ## GNS3
 * Es necesario registrarse en la página oficial.
 * Para este caso, descargamos la versión **2.2.49**.
-* [Descargar GNS3](https://www.gns3.com/software/download)
+* Descarga: [GNS3](https://www.gns3.com/software/download)
 
 ## GNS3 VM
 * Es necesario registrarse en la página oficial.
 * Para este caso, descargamos la versión para VMware Workstation (versión **2.2.49**).
-* [Descargar GNS3 VM](https://www.gns3.com/software/download-vm)
+* Descarga: [GNS3 VM](https://www.gns3.com/software/download-vm)
 
 # Instalación
 
