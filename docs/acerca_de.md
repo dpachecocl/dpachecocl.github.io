@@ -60,6 +60,9 @@ Acreditado para dictar los siguientes cursos:
 * **Introduccion a la manipulacion de datos**  
   *Cybersecurity Week Conference 2022 - Capacitacion USACH*
 
+* **Automatizando el analisis de vulnerabilidades en protocolos de networking**  
+  *Lesand Tecnology Conference Peru 2020*
+
 ### Publicaciones
 * **Seguridad en redes de comunicaciones: Perspectivas y desafíos**  
   *Ingeniare Revista chilena de ingeniería* (30/06/2022)
