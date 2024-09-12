@@ -45,7 +45,7 @@ Acreditado para dictar los siguientes cursos:
 - CCNP Enterprise
 
 ### Comunicaciones y ponencias
-* **Caso de estudio Peritaje Informatico**
+* **Caso de estudio Peritaje Informatico**  
   *Security Conference 2018 - Inacap Santiago Sur
 ### Publicaciones
 * **Seguridad en redes de comunicaciones: Perspectivas y desafíos**  
