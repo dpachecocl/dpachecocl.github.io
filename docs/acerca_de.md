@@ -39,6 +39,13 @@ order: 2
 - Introduction to the Internet of Everything
 - Introduction to IoT
 
+### Instructor Cisco Networking Academy
+Acreditado para dictar los siguientes cursos:
+- CCNA
+- Network Secuirty
+- CCNA CyberOps
+- CCNP Enterprise
+  
 ### Reconocimientos
 - Docente destacado 2024 - Diplomados en Ciberseguridad (Capacitación USACH)
 - Docente destacado 2023 - Diplomados en Ciberseguridad (Capacitación USACH)
