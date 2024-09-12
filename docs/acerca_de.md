@@ -47,6 +47,10 @@ Acreditado para dictar los siguientes cursos:
 ### Comunicaciones y ponencias
 * **Caso de estudio Peritaje Informatico**  
   *Security Conference 2018 - Inacap Santiago Sur*
+
+* **Introduccion a la manipulacion de datos**  
+  *Cybersecurity Week Conference 2022 - Capacitacion USACH*
+
 ### Publicaciones
 * **Seguridad en redes de comunicaciones: Perspectivas y desafíos**  
   *Ingeniare Revista chilena de ingeniería* (30/06/2022)
