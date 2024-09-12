@@ -51,6 +51,9 @@ Acreditado para dictar los siguientes cursos:
 * **Packet Crafting**  
   *Patagonia Hacking Punta Arenas 2017*
 
+* **Análisis de vulnerabilidades en protocolo de networking realizando captura de tráfico”**  
+  *Patagonia Hacking Punta Arenas 2018*
+
 * **Packet Crafting usando Scapy**  
   *Patagonia Hacking Araucania 2019*
   
