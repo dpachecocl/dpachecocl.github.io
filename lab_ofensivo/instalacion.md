@@ -11,7 +11,7 @@ parent: "Lab Ofensivo"
 * Se puede licenciar para uso personal.
 * Es necesario registrarse en [Broadcom.com](https://www.broadcom.com/).
 * Para este caso, descargamos la versión **VMware-workstation-full-17.5.2**.
-* [VMware Workstation Pro disponible gratuitamente para uso personal](https://blogs.vmware.com/workstation/2024/05/vmware-workstation-pro-now-available-free-for-personal-use.html)
+* Descarga: [VMware Workstation ](https://blogs.vmware.com/workstation/2024/05/vmware-workstation-pro-now-available-free-for-personal-use.html)
 
 ## Ubuntu Desktop
 * Usaremos esta distribución de Ubuntu para realizar pruebas ofensivas.
