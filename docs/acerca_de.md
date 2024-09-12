@@ -43,7 +43,11 @@ Acreditado para dictar los siguientes cursos:
 - Network Security
 - CCNA CyberOps
 - CCNP Enterprise
-  
+
+### Publicaciones
+*Seguridad en redes de comunicaciones: Perspectivas y desafíosSeguridad en redes de comunicaciones: Perspectivas y desafíos
+Ingeniare Revista chilena de ingeniería (30/06/2022)
+
 ### Reconocimientos
 - Docente destacado 2024 - Diplomados en Ciberseguridad (Capacitación USACH)
 - Docente destacado 2023 - Diplomados en Ciberseguridad (Capacitación USACH)
