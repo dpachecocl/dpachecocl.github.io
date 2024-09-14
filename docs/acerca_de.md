@@ -47,24 +47,34 @@ Acreditado para dictar los siguientes cursos:
 - CCNP Enterprise
 
 ### Comunicaciones y ponencias
-* **Caso de estudio Peritaje Informatico**  
-  *Security Conference 2018 - Inacap Santiago Sur*
+### Comunicaciones y Ponencias
+
+* **Caso de estudio: Peritaje Informático**  
+  _Security Conference 2018_  
+  **Inacap Santiago Sur, Chile**
 
 * **Packet Crafting**  
-  *Patagonia Hacking Punta Arenas 2017*
+  _Patagonia Hacking 2017_  
+  **Punta Arenas, Chile**
 
-* **Análisis de vulnerabilidades en protocolo de networking realizando captura de tráfico”**  
-  *Patagonia Hacking Punta Arenas 2018*
+* **Análisis de vulnerabilidades en protocolo de networking realizando captura de tráfico**  
+  _Patagonia Hacking 2018_  
+  **Punta Arenas, Chile**
 
 * **Packet Crafting usando Scapy**  
-  *Patagonia Hacking Araucania 2019*
-  
-* **Introduccion a la manipulacion de datos**  
-  *Cybersecurity Week Conference 2022 - Capacitacion USACH*
+  _Patagonia Hacking 2019_  
+  **Araucanía, Chile**
 
-* **Automatizando el analisis de vulnerabilidades en protocolos de networking**  
-  *8.8 Solidario 2018*
-  *Lesand Tecnology Conference Peru 2020*
+* **Introducción a la manipulación de datos**  
+  _Cybersecurity Week Conference 2022_  
+  **Capacitación USACH, Chile**
+
+* **Automatizando el análisis de vulnerabilidades en protocolos de networking**  
+  _8.8 Solidario 2018_  
+  **Chile**  
+  _Lesand Technology Conference 2020_  
+  **Perú**
+
 
 ### Publicaciones
 * **Seguridad en redes de comunicaciones: Perspectivas y desafíos**  
@@ -77,3 +87,6 @@ Acreditado para dictar los siguientes cursos:
 - Reconocimiento a la excelencia en el desempeño de las funciones y compromiso con la misión de INACAP (2013)
 - Seleccionado como expositor en Seminario Nacional de Buenas Prácticas INACAP 2012: Uso del foro en la enseñanza
 - Primer lugar, Instructor Excellence Chile 2012 (Academias Cisco Chile)
+
+### Experiencia academica
+- Docente
