@@ -4,7 +4,7 @@ title: "Descargas e instalación de herramientas."
 layout: default
 order: 3
 ---
-# Descargas e instalación de herramientas.
+# **Descargas e instalación de herramientas.**
 
 ## VMWare Workstation 17
 * Se puede licenciar para uso personal.
