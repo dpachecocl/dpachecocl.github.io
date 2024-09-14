@@ -46,7 +46,6 @@ Acreditado para dictar los siguientes cursos:
 - CCNA CyberOps
 - CCNP Enterprise
 
-### Comunicaciones y ponencias
 ### Comunicaciones y Ponencias
 
 * **Caso de estudio: Peritaje Informático**  
@@ -75,10 +74,9 @@ Acreditado para dictar los siguientes cursos:
   _Lesand Technology Conference 2020_  
   **Perú**
 
-
 ### Publicaciones
 * **Seguridad en redes de comunicaciones: Perspectivas y desafíos**  
-  *Ingeniare Revista chilena de ingeniería* (30/06/2022)
+  _Ingeniare Revista chilena de ingeniería_ (30/06/2022)
 
 ### Reconocimientos
 - Docente destacado 2024 - Diplomados en Ciberseguridad (Capacitación USACH)
@@ -88,5 +86,6 @@ Acreditado para dictar los siguientes cursos:
 - Seleccionado como expositor en Seminario Nacional de Buenas Prácticas INACAP 2012: Uso del foro en la enseñanza
 - Primer lugar, Instructor Excellence Chile 2012 (Academias Cisco Chile)
 
-### Experiencia academica
+### Experiencia Académica
 - Docente
+
