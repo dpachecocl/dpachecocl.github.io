@@ -12,10 +12,12 @@ order: 2
 - Ingeniero en Telecomunicaciones
 - Técnico en Electricidad Industrial
 
-### Cursos Realizados
+### Diplomados Realizados
 - Diplomado en Peritaje Informático (DIINF USACH)
 - Diplomado en Control, Seguridad y Auditoría Computacional (DIINF USACH)
 - Diplomado en Seguridad Ofensiva (DragonJar Educación)
+
+### Cursos Realizados
 - Curso Básico de Hacking Ético (Securízame)
 - Curso Avanzado de Hacking Ético (Securízame)
 - DFIR y Análisis Forense en Redes (Securízame)
@@ -67,7 +69,6 @@ Acreditado para dictar los siguientes cursos:
 ### Publicaciones
 * **Seguridad en redes de comunicaciones: Perspectivas y desafíos**  
   *Ingeniare Revista chilena de ingeniería* (30/06/2022)
-
 
 ### Reconocimientos
 - Docente destacado 2024 - Diplomados en Ciberseguridad (Capacitación USACH)
