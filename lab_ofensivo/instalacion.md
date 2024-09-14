@@ -49,7 +49,7 @@ parent: "Lab Ofensivo"
 * Seleccionamos la opción **Try or Install Ubuntu**.
 * Durante la instalación, elegimos el idioma, opciones de accesibilidad, tipo de teclado, etc.
 * Creamos una cuenta, indicamos el nombre de la máquina y una contraseña, seleccionamos la zona horaria e iniciamos la instalación.
-* Una vez finalizada la instalacion, nos
+* Una vez finalizada la instalación, reiniciamos.
 
 ## GNS3 VM
 * Descomprimimos el archivo descargado.
