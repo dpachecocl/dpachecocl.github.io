@@ -93,9 +93,9 @@ Acreditado para dictar los siguientes cursos:
   _DIINF USACH_ 
 * **Director Programa Diplomado en Seguridad en Redes**  
   _Capacitacion USACH_ 
-* **...**  
+* **Main Contact CCNP**  
   _..._ 
-* **...**  
+* **Docente Diplomado de Seguiridad En Redes**  
   _..._ 
 * **...**  
   _..._ 
