@@ -74,6 +74,14 @@ Acreditado para dictar los siguientes cursos:
   _Lesand Technology Conference 2020_  
   **Perú**
 
+* **Conferencia magistral para los alumnos del curso CISCO SECURITY**  
+  _Curso CCNA Security_  
+  **Universidad de Piura, Peru**
+
+* **Uso de TICs en la Educacion**  
+  _Seminario Taller Internacional TIC's Educativos y Formas de Coaching_  
+  **Ebibeyin, Guinea Ecuatorial**
+
 ### Publicaciones
 * **Seguridad en redes de comunicaciones: Perspectivas y desafíos**  
   _Ingeniare Revista chilena de ingeniería_ (30/06/2022)
