@@ -88,4 +88,4 @@ Acreditado para dictar los siguientes cursos:
 
 ### Experiencia Académica
 - **Intructor Trainter CCNA, Cyberops y CCNP**
-  _Preparacion de instructores de diferentes academias ENAC, IP Los Leones, Escuela Teleco Ejercito, UTA, Armada, UMAG, IPST, AIEP, IP Chile, AIEP, Duoc, CIISA, ICEL, Universidad de Magallanes, academias locales FRAD e INACAP_
+   _Preparacion de instructores de diferentes academias ENAC, IP Los Leones, Escuela Teleco Ejercito, UTA, Armada, UMAG, IPST, AIEP, IP Chile, AIEP, Duoc, CIISA, ICEL, Universidad de Magallanes, academias locales FRAD e INACAP_
