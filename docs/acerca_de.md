@@ -92,8 +92,6 @@ Acreditado para dictar los siguientes cursos:
 * **Académico Diplomado en Ciberseguridad (Gestión, Técnico y Legal)**  
   _..._ 
 * **Director Programa Diplomado en Seguridad en Redes**  
-  _..._
-  * **...**  
   _..._ 
 * **...**  
   _..._ 
