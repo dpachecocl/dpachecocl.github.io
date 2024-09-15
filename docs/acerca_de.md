@@ -75,10 +75,14 @@ Acreditado para dictar los siguientes cursos:
   **Perú**
 
 * **Conferencia magistral para los alumnos del curso CISCO SECURITY**  
-  _Curso CCNA Security_  
+  _Curso CCNA Cyberops_  
   **Universidad de Piura, Peru**
 
-* **Uso de TICs en la Educacion**  
+* **Conferencia sobre seguridad**  
+  _Curso de CCNA_  
+  **Universidad de Piura, Peru**
+
+* **Conferencia sobre seguridad**  
   _Seminario Taller Internacional TIC's Educativos y Formas de Coaching_  
   **Ebibeyin, Guinea Ecuatorial**
 
