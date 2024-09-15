@@ -87,5 +87,5 @@ Acreditado para dictar los siguientes cursos:
 - Primer lugar, Instructor Excellence Chile 2012 (Academias Cisco Chile)
 
 ### Experiencia Académica
-- Intructor Trainter CCNA, Cyberops y CCNP
+- **Intructor Trainter CCNA, Cyberops y CCNP**
   _Preparacion de instructores de diferentes academias ENAC, IP Los Leones, Escuela Teleco Ejercito, UTA, Armada, UMAG, IPST, AIEP, IP Chile, AIEP, Duoc, CIISA, ICEL, Universidad de Magallanes, academias locales FRAD e INACAP_
