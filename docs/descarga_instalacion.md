@@ -9,7 +9,7 @@ order: 3
 ## VMWare Workstation 17
 * Se puede licenciar para uso personal.
 * Es necesario registrarse en [Broadcom.com](https://www.broadcom.com/).
-* Para este caso, descargamos la versión **VMware-workstation-full-17.5.2**.
+* Para este caso, descargamos la versión **VMware-workstation-full-17.6.0-24238078.exe**.
 * Descarga: [VMware Workstation ](https://blogs.vmware.com/workstation/2024/05/vmware-workstation-pro-now-available-free-for-personal-use.html)
 
 ## Ubuntu Desktop
