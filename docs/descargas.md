@@ -18,6 +18,7 @@ order: 3
 * Descarga: [Ubuntu Desktop](https://ubuntu.com/download/desktop)
 
 ## GNS3
+### GNS3 Desktop
 * Es necesario registrarse en la página oficial.
 * Para este caso, descargamos la versión **2.2.49**.
 * Descarga: [GNS3](https://www.gns3.com/software/download)
