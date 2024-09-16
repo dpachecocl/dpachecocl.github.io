@@ -2,8 +2,8 @@
 theme: "just-the-docs"
 title: "Instalación Wireshark & Tshark"
 layout: default
-nav_order: 3
-parent: "Lab Ofensivo" 
+nav_order: 2
+parent: "Ubuntu" 
 ---
 # Instalacion de Tshark y Wireshark
 ## Actualización
