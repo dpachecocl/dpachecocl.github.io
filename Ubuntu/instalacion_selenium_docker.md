@@ -37,47 +37,27 @@ sudo docker run hello-world
 ```
 
 ## Instalación de Selenium en un Entorno Virtual
-
-**Descripción:** Creamos un entorno virtual llamado ENV-SELENIUM y lo activamos
-
 ```
 cd /home/lesand/Desktop/tools/
 virtualenv ENV-SELENIUM -p python3
 source ENV-SELENIUM/bin/activate
 ```
-
-**Descripción:** Instalamos Selenium en el entorno virtual.
-
 ```
 pip install selenium
 ```
-
-**Descripción:** Ejecutamos un contenedor Docker con Selenium Chrome
 ```
 sudo docker run -d -p 4444:4444 --name selenium-chrome selenium/standalone-chrome
 ```
-Donde:
-- **`sudo`**: Ejecuta el comando con privilegios de superusuario.
-- **`docker run -d -p 4444:4444 --name selenium-chrome selenium/standalone-chrome`**: Ejecuta un contenedor Docker en modo "desprendido" (detached), asignándole el nombre `selenium-chrome`.
-- **`-p 4444:4444`**: Mapea el puerto 4444 del host al puerto 4444 del contenedor, permitiendo el acceso al servidor Selenium Grid desde fuera del contenedor.
-- **`selenium/standalone-chrome`**: Especifica la imagen Docker a utilizar. En este caso, se usa una imagen que contiene un servidor Selenium Grid con Chrome preinstalado.
-
-**Descripción:** Creamos un directorio para almacenar los script de selenium
 ```
 mkdir /home/lesand/Desktop/tools/selenium
 cd /home/lesand/Desktop/tools/selenium 
 ```
-
 ### Creación de script de prueba
 Crearemos un archivo para ejecutarlo posteriormente con Python:
 ```
 nano selenium01.py
 ```
-
 Posteriormente copiamos lo siguiente en el archivo creado.
-
-**Descripción:** En este script configura un navegador Chrome en modo headless (esta opción permite iniciar el navegador sin una interfaz grafica), navega en la pagina https://www.lesand.cl, imprime el titulo de la pagina y cierra el navegador.
-
 ```
 # Importacion de las librerias necesarias.
 from selenium import webdriver
