@@ -3,7 +3,7 @@ theme: "just-the-docs"
 title: "LAB Ofensivo: Escenario 01"
 layout: default
 nav_order: 5
-parent: "Lab Ofensivo" 
+parent: "Labs Ofensivos" 
 ---
 # LAB Ofensivo: Escenario 01
 ## Topologia a configurar
