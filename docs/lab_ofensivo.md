@@ -5,4 +5,4 @@ layout: default
 order: 6
 has_children: true
 ---
-# Lab Ofensivo
+# Labs Ofensivo
