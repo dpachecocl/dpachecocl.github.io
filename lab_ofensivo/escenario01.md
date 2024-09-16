@@ -5,7 +5,7 @@ layout: default
 nav_order: 5
 parent: "Labs Ofensivos" 
 ---
-# LAB Ofensivo: Escenario 01
+# Escenario 01: DTP, RIPv2
 ## Topologia a configurar
 ![Escenario 01](Escenario01.png)
 ## Configuracion equipos de comunicaciones
