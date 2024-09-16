@@ -1,6 +1,6 @@
 ---
 theme: "just-the-docs"
-title: "LAB Ofensivo: Escenario 01"
+title: "Escenario 01: DTP, RIPv2"
 layout: default
 nav_order: 5
 parent: "Labs Ofensivos" 
