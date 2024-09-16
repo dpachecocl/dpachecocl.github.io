@@ -7,14 +7,10 @@ parent: "Ubuntu"
 ---
 # Mejoras de la terminal
 ## Actualización
-
-**Descripción**: Actualiza la lista de paquetes disponibles y sus versiones, luego instala las últimas versiones de todos los paquetes actualmente instalados en el sistema.
 ```
 sudo apt-get update && sudo apt-get upgrade -y
 ```
 ## ZSH,Curl,Git y Terminator
-
-**Descripción**: Instala las herramientas básicas necesarias para el entorno de desarrollo y la terminal. ZSH es un intérprete de comandos, Curl es una herramienta para transferir datos, Git es un sistema de control de versiones y Terminator es una terminal avanzada para Linux.
 ```
 sudo apt-get install zsh -y
 sudo apt-get install curl -y
@@ -23,32 +19,27 @@ sudo apt-get install terminator -y
 ```
 
 ## Instalación OhMyZSH
-**Descripción**: Instala Oh My Zsh, un framework de gestión para la configuración de ZSH, que proporciona temas y plugins para mejorar la experiencia en la terminal.
 ```
 echo "Y" | sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 chsh -s $(which zsh)
 ```
 
 ## Instalación Powerlevel10K
-**Descripción**: Descarga e instala el tema Powerlevel10k para Oh My Zsh, que mejora la apariencia visual de la terminal con información adicional y un diseño más atractivo.
 ```
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
 ```
 
 ## Configuración del tema
-**Descripción**: Modifica el archivo de configuración de ZSH para establecer Powerlevel10k como el tema por defecto de la terminal.
 ```
 sed -i 's/ZSH_THEME="robbyrussell"/ZSH_THEME="powerlevel10k\/powerlevel10k"/' ~/.zshrc
 ```
 
 ## Instalación de Plugins
-**Descripción**: Instala dos plugins para ZSH: "zsh-autosuggestions" ofrece sugerencias basadas en el historial de comandos, y "zsh-syntax-highlighting" añade coloreado sintáctico al escribir comandos.
 ```
 sudo apt install zsh-autosuggestions
 sudo apt install zsh-syntax-highlighting
 ```
 ## Configuración de Plugins
-**Descripción**: Configura el archivo ~/.zshrc para habilitar los plugins.
 ```
 echo "#Plugins" >> ~/.zshrc
 echo "source /usr/share/zsh-autosuggestions/zsh-autosuggestions.zsh" >> ~/.zshrc
@@ -56,7 +47,6 @@ echo "source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> 
 ```
 
 ## Descarga Fonts
-**Descripción**: Descarga y mueve las fuentes MesloLGS NF a la carpeta de fuentes del sistema, luego actualiza el caché de fuentes para que estén disponibles en la terminal.
 ```
 wget https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS%20NF%20Regular.ttf
 wget https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS%20NF%20Bold.ttf
@@ -73,7 +63,6 @@ exit
 * Ejemplo de configuracion de Powerlevel10k: YYY1Y 111 221 411 22n 1y
 
 ## Cambio de Fondo
-**Descripción**: Cambia el fondo de escritorio descargando una nueva imagen y configurándola como el fondo actual utilizando gsettings.
 ```
 cd
 cd Pictures
@@ -82,7 +71,6 @@ gsettings set org.gnome.desktop.background picture-uri "file://$(pwd)/724440-fre
 ```
 
 ## Instalación Conky
-**Descripción**: Instala Conky, una herramienta ligera de monitorización del sistema, que muestra información como el uso de CPU, memoria, espacio en disco, etc., en el escritorio.
 ```
 sudo apt-get install conky-all -y
 ```
