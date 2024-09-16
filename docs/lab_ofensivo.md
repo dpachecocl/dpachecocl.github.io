@@ -1,6 +1,6 @@
 ---
 theme: "just-the-docs"
-title: "Lab Ofensivo"
+title: "Labs Ofensivos"
 layout: default
 order: 6
 has_children: true
