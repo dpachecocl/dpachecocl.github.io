@@ -10,6 +10,13 @@ order: 4
 * Instalamos el software con todas las opciones predeterminadas.
 * En la opción de licencia, seleccionamos "Ingresar después".
 * Al abrir VMware Workstation, seleccionamos la opción "Use VMware Workstation for Personal Use", luego continuamos y finalizamos.
+Nota: Durante la instalacion de la ultima version de VMWare es necesario ejecutar los siguientes comandos en la interfaz de comandos ejecutada en modo administrador
+```
+C:\WINDOWS\system32> net localgroup /add "Authenticated Users"
+PS C:\WINDOWS\system32> net localgroup /add "Users"
+PS C:\WINDOWS\system32> net localgroup /add "Administrators"
+```
+
 
 ## Ubuntu Desktop.
 * Una vez iniciado VMware, seleccionamos la opción de crear una nueva máquina virtual.
