@@ -2,8 +2,8 @@
 theme: "just-the-docs"
 title: "Instalacion de Llaitun"
 layout: default
-nav_order: 4
-parent: "Lab Ofensivo" 
+nav_order: 3
+parent: "Ubuntu" 
 ---
 ## Crear directorio tools para descargar herramientas desde GitHub
 ```
