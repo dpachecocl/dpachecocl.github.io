@@ -1,8 +1,8 @@
 ---
 theme: "just-the-docs"
-title: "Descargas e instalación de herramientas."
+title: "Instalación de herramientas."
 layout: default
-order: 3
+order: 4
 ---
 # **Instalación**
 
