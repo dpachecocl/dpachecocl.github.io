@@ -84,5 +84,3 @@ finally:
     # Cerrar el navegador
     driver.quit()
 ```
-
-Mas información de selenium [[Selenium]]
