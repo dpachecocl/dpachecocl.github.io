@@ -2,7 +2,7 @@
 theme: "just-the-docs"
 title: "Labs Ofensivos"
 layout: default
-order: 6
+order: 7
 has_children: true
 ---
-# Labs Ofensivo
+# Labs Ofensivos
