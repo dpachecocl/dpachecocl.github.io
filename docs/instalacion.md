@@ -55,28 +55,27 @@ PS C:\WINDOWS\system32> net localgroup /add "Administrators"
 
 # Instalación de MikroTik en GNS3
 
-## 1. Descarga de MikroTik
+**1. Descarga de MikroTik**
 - Visita el siguiente enlace para descargar la imagen: [MikroTik CHR](https://download.mikrotik.com/routeros/6.40.6/chr-6.40.6.img.zip).
-## 2. Descomprimir el archivo
+**2. Descomprimir el archivo**
 - Extrae el archivo ZIP descargado. Asegúrate de que el archivo `chr-6.40.6.img` esté disponible.
-## 3. Agregar un nuevo template en GNS3
+**3. Agregar un nuevo template en GNS3**
 - Abre GNS3 y selecciona **New Template**.
-## 4. Seleccionar la opción de instalación
+**4. Seleccionar la opción de instalación**
 - Elige la opción **Install an appliance from the GNS3 server (recommended)** y haz clic en **Next**.
-## 5. Buscar el appliance
+**5. Buscar el appliance**
 - En el campo de búsqueda (filter), escribe **chr** y selecciona **MikroTik CHR QEMU**. Luego haz clic en **Install**.
-## 6. Seleccionar la instalación en la GNS3 VM
+**6. Seleccionar la instalación en la GNS3 VM
 - Asegúrate de que esté seleccionada la opción **Install the appliance on the GNS3 VM (recommended)** y haz clic en **Next**.
-## 7. Configurar QEMU
+**7. Configurar QEMU**
 - Mantén la opción por defecto seleccionada: `/bin/qemu-system-x86_64 (v4.2.1)` y haz clic en **Next**.
-## 8. Elegir la versión
+**8. Elegir la versión**
 - Selecciona la versión más antigua de la lista (por ejemplo, 6.48.6) y selecciona **Create a new version**.
-## 9. Configurar la nueva versión
+**9. Configurar la nueva versión**
 - Asigna el nombre **6.40.6** y establece el nombre de archivo como **chr-6.40.6.img**.
-## 10. Importar la imagen
+**10. Importar la imagen**
 - En la nueva versión creada, selecciona **chr-6.40.6.img** y haz clic en **Import**. Esto cargará la imagen en la máquina virtual, y el estado cambiará a **Ready to install**.
-## 11. Completar la instalación
+**11. Completar la instalación**
 - Selecciona la nueva versión que has creado, haz clic en **Next** y acepta la instalación.
-## 12. Verificar el nuevo dispositivo
+**12. Verificar el nuevo dispositivo**
 - Una vez completada la instalación, revisa el nuevo dispositivo en GNS3 para asegurarte de que esté configurado correctamente.
----
