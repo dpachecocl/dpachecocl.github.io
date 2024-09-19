@@ -48,15 +48,12 @@ PS C:\WINDOWS\system32> net localgroup /add "Administrators"
 * Al abrir GNS3 por primera vez, aparecerá un **Setup Wizard**, donde debemos elegir la opción **Run appliances in a virtual machine**. Posteriormente, debemos asociarlo a VMware y a la máquina virtual creada en la sección anterior.
 * Si este proceso se realizó correctamente, en el panel de GNS3 aparecerá la máquina virtual con un botón verde indicando que está activa.
 
-# **Configuración.**
-
-## GNS3
+### En relación a GNS3
 * Una vez que GNS3 está en funcionamiento, es necesario agregar las imágenes de los dispositivos que se van a implementar. Estos pueden ser múltiples dispositivos, los cuales deben descargarse e incorporarse a GNS3. El listado de dispositivos compatibles se puede encontrar en [GNS3 Marketplace](https://www.gns3.com/marketplace/appliances). (Es importante tener en cuenta que algunas imágenes requieren cuentas de usuario o licenciamiento).
 
-# Instalación de MikroTik en GNS3
-## Ejemplo de instalación de MikroTik en GNS3
+## Ejemplo de virtualización de Mikrotik en GNS3
 
-1. **Descarga de MikroTik**: [Descargar MikroTik CHR](https://download.mikrotik.com/routeros/6.40.6/chr-6.40.6.img.zip).
+1. **Descarga de MikroTik**: [Descargar MikroTik CHR](https://download.mikrotik.com/routeros/6.40.6/chr-6.40.6.img.zip) (imagen img)
 2. **Descomprimir el archivo**.
 3. En GNS3, seleccionar **New Template**.
 4. Seleccionar la opción **Install an appliance from the GNS3 server (recommended)** y hacer clic en **Next**.
@@ -68,3 +65,16 @@ PS C:\WINDOWS\system32> net localgroup /add "Administrators"
 10. En la nueva versión creada, seleccionar **chr-6.40.6.img** y hacer clic en **Import** (esto cargará la imagen en la máquina virtual) y el estado cambiará a **Ready to install**.
 11. Seleccionar la nueva versión, hacer clic en **Next** y aceptar la instalación.
 12. Revisar el nuevo dispositivo.
+
+## Ejemplo de virtualización de Mikrotik en VMware
+**Descarga de MikroTik**: [Descargar MikroTik CHR](https://download.mikrotik.com/routeros/6.40.6/chr-6.40.6.vmdk) (imagen VMDK).
+
+1. Crear una nueva máquina virtual. En la página inicial, al crear la nueva máquina virtual, seleccionar la opción **Typical (recommended)** y hacer clic en **Next**.
+2. Luego, seleccionar la opción **I will install the operating system later** y hacer clic en **Next**.
+3. A continuación, elegir **Linux 6.x kernel 64 bits** como sistema operativo y hacer clic en **Next**.
+4. Asignar un nombre a la máquina virtual y hacer clic en **Next**.
+5. Posteriormente, seleccionar **Store virtual disk as a single file** (el tamaño da lo mismo porque se reemplazará el disco después) y hacer clic en **Next**.
+6. Finalizar la instalación.
+7. Ahora tenemos dos opciones:
+   1. Reemplazar el disco de la máquina copiando el archivo descargado en la carpeta de instalación de la máquina virtual y renombrarlo con el mismo nombre.
+   2. La otra opción es editar la máquina virtual, eliminar el disco (con la opción **Remove**) y luego agregar el disco descargado con la opción **Add**.
