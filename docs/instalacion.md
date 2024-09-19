@@ -54,28 +54,17 @@ PS C:\WINDOWS\system32> net localgroup /add "Administrators"
 * Una vez que GNS3 está en funcionamiento, es necesario agregar las imágenes de los dispositivos que se van a implementar. Estos pueden ser múltiples dispositivos, los cuales deben descargarse e incorporarse a GNS3. El listado de dispositivos compatibles se puede encontrar en [GNS3 Marketplace](https://www.gns3.com/marketplace/appliances). (Es importante tener en cuenta que algunas imágenes requieren cuentas de usuario o licenciamiento).
 
 # Instalación de MikroTik en GNS3
+## Ejemplo de instalación de MikroTik en GNS3
 
-- **1. Descarga de MikroTik**
-- Visita el siguiente enlace para descargar la imagen: [MikroTik CHR](https://download.mikrotik.com/routeros/6.40.6/chr-6.40.6.img.zip).
-- **2. Descomprimir el archivo**
-- Extrae el archivo ZIP descargado. Asegúrate de que el archivo `chr-6.40.6.img` esté disponible.
-- **3. Agregar un nuevo template en GNS3**
-- Abre GNS3 y selecciona **New Template**.
-- **4. Seleccionar la opción de instalación**
-- Elige la opción **Install an appliance from the GNS3 server (recommended)** y haz clic en **Next**.
-- **5. Buscar el appliance**
-- En el campo de búsqueda (filter), escribe **chr** y selecciona **MikroTik CHR QEMU**. Luego haz clic en **Install**.
-- **6. Seleccionar la instalación en la GNS3 VM**
-- Asegúrate de que esté seleccionada la opción **Install the appliance on the GNS3 VM (recommended)** y haz clic en **Next**.
-- **7. Configurar QEMU**
-- Mantén la opción por defecto seleccionada: `/bin/qemu-system-x86_64 (v4.2.1)` y haz clic en **Next**.
-- **8. Elegir la versión**
-- Selecciona la versión más antigua de la lista (por ejemplo, 6.48.6) y selecciona **Create a new version**.
-- **9. Configurar la nueva versión**
-- Asigna el nombre **6.40.6** y establece el nombre de archivo como **chr-6.40.6.img**.
-- **10. Importar la imagen**
-- En la nueva versión creada, selecciona **chr-6.40.6.img** y haz clic en **Import**. Esto cargará la imagen en la máquina virtual, y el estado cambiará a **Ready to install**.
-- **11. Completar la instalación**
-- Selecciona la nueva versión que has creado, haz clic en **Next** y acepta la instalación.
-- **12. Verificar el nuevo dispositivo**
-- Una vez completada la instalación, revisa el nuevo dispositivo en GNS3 para asegurarte de que esté configurado correctamente.
+1. **Descarga de MikroTik**: [Descargar MikroTik CHR](https://download.mikrotik.com/routeros/6.40.6/chr-6.40.6.img.zip).
+2. **Descomprimir el archivo**.
+3. En GNS3, seleccionar **New Template**.
+4. Seleccionar la opción **Install an appliance from the GNS3 server (recommended)** y hacer clic en **Next**.
+5. En el filtro, buscar **chr**, seleccionar **MikroTik CHR QEMU** y hacer clic en **Install**.
+6. Asegurarse de que esté seleccionada la opción **Install the appliance on the GNS3 VM (recommended)** y hacer clic en **Next**.
+7. Dejar la opción de QEMU por defecto seleccionada (`/bin/qemu-system-x86_64 (v4.2.1)`) y hacer clic en **Next**.
+8. Seleccionar la versión más antigua de la lista (6.48.6) y elegir **Create a new version**.
+9. Asignar como nombre **6.40.6** y como nombre de archivo **chr-6.40.6.img**.
+10. En la nueva versión creada, seleccionar **chr-6.40.6.img** y hacer clic en **Import** (esto cargará la imagen en la máquina virtual) y el estado cambiará a **Ready to install**.
+11. Seleccionar la nueva versión, hacer clic en **Next** y aceptar la instalación.
+12. Revisar el nuevo dispositivo.
