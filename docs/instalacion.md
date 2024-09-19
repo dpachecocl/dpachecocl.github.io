@@ -51,6 +51,7 @@ PS C:\WINDOWS\system32> net localgroup /add "Administrators"
 ### En relación a GNS3
 * Una vez que GNS3 está en funcionamiento, es necesario agregar las imágenes de los dispositivos que se van a implementar. Estos pueden ser múltiples dispositivos, los cuales deben descargarse e incorporarse a GNS3. El listado de dispositivos compatibles se puede encontrar en [GNS3 Marketplace](https://www.gns3.com/marketplace/appliances). (Es importante tener en cuenta que algunas imágenes requieren cuentas de usuario o licenciamiento).
 
+# **Mikrotik**
 ## Ejemplo de virtualización de Mikrotik en GNS3
 
 1. **Descarga de MikroTik**: [Descargar MikroTik CHR](https://download.mikrotik.com/routeros/6.40.6/chr-6.40.6.img.zip) (imagen img)
