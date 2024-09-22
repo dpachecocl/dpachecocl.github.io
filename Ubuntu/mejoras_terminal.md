@@ -142,6 +142,7 @@ Luego guardar el archivo:
 - Ctrl + X: Salir de nano.
 
 ## Iniciar automaticamente Conky al reiniciar el sistema
+Abrir la consola (ctrl + T) y pegar los comandos que están a continuación:
 ```
 cd
 echo -e '#!/bin/bash\nsleep 10 && conky -d' > ~/start_conky.sh
