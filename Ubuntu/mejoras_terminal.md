@@ -160,7 +160,6 @@ Comment=Start Conky at login
 EOL
 ```
 ## Reiniciar el sistema.
-**Descripción**: Reiniicia el sistema.
 ```
 reboot
 ```
