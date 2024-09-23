@@ -160,6 +160,6 @@ Comment=Start Conky at login
 EOL
 ```
 ## Reiniciar el sistema.
-```
+```bash
 reboot
 ```
