@@ -7,11 +7,11 @@ parent: "Ubuntu"
 ---
 # Mejoras de la terminal
 ## Actualización
-```
+```bash
 sudo apt-get update && sudo apt-get upgrade -y
 ```
 ## ZSH,Curl,Git y Terminator
-```
+```bash
 sudo apt-get install zsh -y
 sudo apt-get install curl -y
 sudo apt-get install git -y
@@ -19,35 +19,35 @@ sudo apt-get install terminator -y
 ```
 
 ## Instalación OhMyZSH
-```
+```bash
 echo "Y" | sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 chsh -s $(which zsh)
 ```
 
 ## Instalación Powerlevel10K
-```
+```bash
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
 ```
 
 ## Configuración del tema
-```
+```bash
 sed -i 's/ZSH_THEME="robbyrussell"/ZSH_THEME="powerlevel10k\/powerlevel10k"/' ~/.zshrc
 ```
 
 ## Instalación de Plugins
-```
+```bash
 sudo apt install zsh-autosuggestions
 sudo apt install zsh-syntax-highlighting
 ```
 ## Configuración de Plugins
-```
+```bash
 echo "#Plugins" >> ~/.zshrc
 echo "source /usr/share/zsh-autosuggestions/zsh-autosuggestions.zsh" >> ~/.zshrc
 echo "source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> ~/.zshrc
 ```
 
 ## Descarga Fonts
-```
+```bash
 wget https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS%20NF%20Regular.ttf
 wget https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS%20NF%20Bold.ttf
 wget https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS%20NF%20Italic.ttf
@@ -63,7 +63,7 @@ exit
 * Ejemplo de configuracion de Powerlevel10k: YYY1Y 111 221 411 22n 1y
 
 ## Cambio de Fondo
-```
+```bash
 cd
 cd Pictures
 wget https://getwallpapers.com/wallpaper/full/4/e/5/724440-free-download-ubuntu-wallpaper-hd-1920x1080.jpg
@@ -71,17 +71,17 @@ gsettings set org.gnome.desktop.background picture-uri "file://$(pwd)/724440-fre
 ```
 
 ## Instalación Conky
-```
+```bash
 sudo apt-get install conky-all -y
 ```
 
 Crear archivo de configuración:
-```
+```bash
 nano ~/.conkyrc
 ```
 
 Pegar la siguiente información:
-```
+```bash
 conky.config = {
     alignment = 'top_right',
     background = true,
@@ -143,7 +143,7 @@ Luego guardar el archivo:
 
 ## Iniciar automaticamente Conky al reiniciar el sistema
 Abrir la consola (ctrl + T) y pegar los comandos que están a continuación:
-```
+```bash
 cd
 echo -e '#!/bin/bash\nsleep 10 && conky -d' > ~/start_conky.sh
 chmod +x ~/start_conky.sh
