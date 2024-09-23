@@ -50,5 +50,5 @@ deactivate
 Para activar el ambiente virtual nuevamente se usa el siguiente comando
 ```bash
 cd /home/lesand/Desktop/tools/
-source ENV-SELENIUM/bin/activate
+source ENV-LLAITUN/bin/activate
 ```
