@@ -7,7 +7,7 @@ parent: "Ubuntu"
 ---
 
 ## Instalación de herramientas usando  `apt-get install`
-```
+```bash
 sudo apt-get install nmap -y
 sudo apt-get install openssh-server -y
 sudo apt-get install hping3 -y
