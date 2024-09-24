@@ -5,25 +5,25 @@ layout: default
 order: 6
 ---
 # **Comandos Mikrotik**
-##CLI##
-###Revisar interfaces disponibles###
+## CLI ##
+### Revisar interfaces disponibles ###
 ```
 # interface print
 ```
-###Revisar IPs de las interfaces###
+### Revisar IPs de las interfaces ###
 ```
 # ip add print
 ```
-###Visualizar interfaces clientes DHCP###
+### Visualizar interfaces clientes DHCP ###
 ```
 ip dhcp-client print
 ```
-###Liberar la IP de una interface###
+### Liberar la IP de una interface ###
 ```
 ip dhcp-client release 0
 ```
 _Donde:0 representa el # de la interfaz_
-###Renovar la IP de una interface###
+### Renovar la IP de una interface ###
 ```
 ip dhcp-client release 0
 ```
