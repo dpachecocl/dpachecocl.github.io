@@ -22,9 +22,9 @@ ip dhcp-client print
 ```
 ip dhcp-client release 0
 ```
-_Donde:0 representa el # de la interfaz_
+_Donde 0 representa el # de la interfaz_
 ### Renovar la IP de una interface ###
 ```
 ip dhcp-client release 0
 ```
-_Donde:0 representa el # de la interfaz_
+_Donde 0 representa el # de la interfaz_
