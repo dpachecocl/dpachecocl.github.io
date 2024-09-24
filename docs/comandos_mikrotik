@@ -7,6 +7,10 @@ order: 6
 # **Comandos Mikrotik**
 ##CLI##
 ###Revisar interfaces disponibles###
+```
 # interface print
+```
 ###Revisar IPs de las interfaces###
+```
 # ip add print
+```
