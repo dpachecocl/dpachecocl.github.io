@@ -16,6 +16,6 @@ sudo apt-get install python3-scapy -y
 sudo apt-get install cewl -y
 sudo apt-get install crunch -y
 sudo apt-get install onesixtyone -y
-sudo apt install hydra-gtk -y
+sudo apt-get install hydra-gtk -y
 sudo apt-get install tcpreplay -y
 ```
