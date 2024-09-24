@@ -28,3 +28,10 @@ chmod +x burpsuite_community_linux_v2024_8_1.sh
 ./burpsuite_community_linux_v2024_8_1.sh
 ```
 Luego instalar con todas las opciones por defecto de forma grafica.
+
+## Instalación de herramientas usando archivos `git clone`
+```bash
+cd /home/lesand/Desktop/tools
+git clone https://github.com/theevilbit/ciscot7.git
+git clone https://github.com/Mebus/cupp.git
+```
