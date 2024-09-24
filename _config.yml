@@ -4,7 +4,7 @@ theme: just-the-docs
 
 url: https://just-the-docs.github.io
 color_scheme: dark
-baseurl: "/docs"
+# baseurl: "/docs"
 
 # Añadir una sección de defaults para las páginas
 defaults:
