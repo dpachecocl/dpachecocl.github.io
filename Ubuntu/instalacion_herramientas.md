@@ -22,7 +22,7 @@ sudo apt-get install tcpreplay -y
 ## Instalación de herramientas usando archivos `.sh`
 Descargar Burp Suite Community Edition desde: [https://portswigger.net/burp/releases](https://portswigger.net/burp/releases), en este caso se ha descargado el siguiente archivo `burpsuite_community_linux_v2024_8_1.sh`.
 
-```
+```bash
 cd ~/Downloads
 chmod +x burpsuite_community_linux_v2024_8_1.sh
 ./burpsuite_community_linux_v2024_8_1.sh
