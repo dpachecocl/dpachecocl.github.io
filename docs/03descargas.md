@@ -2,9 +2,11 @@
 theme: "just-the-docs"
 title: "Descargas de herramientas."
 layout: default
-nav_order: 3
+nav_order: 1
+parent: "Virtualizacion"
 ---
-# **Descargas e instalación de herramientas.**
+
+# **Descargas de herramientas.**
 
 ## VMWare Workstation 17
 * Se puede licenciar para uso personal.
