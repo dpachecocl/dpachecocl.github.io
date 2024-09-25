@@ -1,7 +1,8 @@
 ---
 theme: "just-the-docs"
-title: "Wordlists"
+title: "Wordlist"
 layout: default
-nav_order: 7
+nav_order: 3
+parent: "Herramientas"
 ---
 # **Wordlists**
