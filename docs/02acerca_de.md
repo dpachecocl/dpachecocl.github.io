@@ -2,7 +2,7 @@
 theme: "just-the-docs"
 title: "Acerca de"
 layout: default
-order: 2
+nav_order: 2
 ---
 # Daniel Sebastian Pacheco Pacheco
 
