@@ -5,12 +5,3 @@ theme: just-the-docs
 url: https://just-the-docs.github.io
 color_scheme: dark
 # baseurl: "/docs"
-
-# Añadir una sección de defaults para las páginas
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "default"
-      order: 1  # Añadir un orden predeterminado si es necesario
