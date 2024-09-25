@@ -2,7 +2,7 @@
 theme: "just-the-docs"
 title: "Comandos Mikrotik"
 layout: default
-nav_order: 6
+nav_order: 1
 ---
 # **Comandos Mikrotik**
 ## CLI ##
