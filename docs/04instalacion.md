@@ -2,7 +2,7 @@
 theme: "just-the-docs"
 title: "Instalación de herramientas."
 layout: default
-order: 4
+nav_order: 4
 ---
 # **Instalación**
 
