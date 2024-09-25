@@ -1,8 +1,9 @@
 ---
 theme: "just-the-docs"
-title: "Instalación de herramientas."
+title: "Descargas de herramientas."
 layout: default
-nav_order: 4
+nav_order: 2
+parent: "Virtualizacion"
 ---
 # **Instalación**
 
