@@ -1,8 +1,9 @@
 ---
 theme: "just-the-docs"
-title: "Comandos Mikrotik"
+title: "Mikrotik"
 layout: default
 nav_order: 1
+parent: "Coamandos OS" 
 ---
 # **Comandos Mikrotik**
 ## CLI ##
