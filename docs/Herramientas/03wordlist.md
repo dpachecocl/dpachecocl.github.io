@@ -7,7 +7,7 @@ parent: "Herramientas"
 ---
 # **Wordlists**
 ## Descarga de rockyou
-```
+```bash
 cd
 mkdir /home/lesand/Desktop/tools/diccionarios
 cd /home/lesand/Desktop/tools/diccionarios
