@@ -32,4 +32,7 @@ parent: "Herramientas"
   Este comando escanea el puerto **21** (FTP) utilizando un escaneo SYN scan a la dirección IP **192.168.85.134**, e intenta detectar el sistema operativo del objetivo con la opción `-O`.
 
 - `sudo nmap -sS -p- -sV 192.168.85.134`  
-  Este comando realiza un escaneo SYN scan en **todos los puertos posibles** de la dirección IP **192.168.85.134** y utiliza la opción `-sV` para obtener información detallada sobre las versiones de los servicios
+  Este comando realiza un escaneo SYN scan en **todos los puertos posibles** de la dirección IP **192.168.85.134** y utiliza la opción `-sV` para obtener información detallada sobre las versiones de los servicios.
+
+- `sudo nmap -sU 192.168.85.134 realiza un escaneo UDP en la dirección IP`
+  Este comando realiza un escaneo UDP.
