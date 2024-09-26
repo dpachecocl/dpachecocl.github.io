@@ -54,12 +54,12 @@ Para especificar caracteres podemos usar
  crunch 4 4 abc123 -o crunch02.txt
 ```
 
-Para ver el listado de caracteres usados por crunch podemos revisar el siguiente archivo:
+Para ver el conjunto de caracteres usados por crunch podemos revisar el siguiente archivo:
 ```
 cat /usr/share/crunch/charset.lst
 ```
 
-por defecto si no se especifican caracteres se usa **lalpha**, para seleccionar el charset por **hex-upper**:
+Por defecto si no se especifica un conjunto de caracteres se usa **lalpha**, para seleccionar el charset por **hex-upper**:
 ```
 crunch 4 4 -f /usr/share/crunch/charset.lst hex-upper
 ```
