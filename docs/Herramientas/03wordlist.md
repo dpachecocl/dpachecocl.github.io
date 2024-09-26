@@ -50,8 +50,8 @@ crunch 2 2 -o crunch01.txt
 ```
 
 Para especificar caracteres podemos usar
- ```
- crunch 4 4 abc123 -o crunch02.txt
+```
+crunch 4 4 abc123 -o crunch02.txt
 ```
 
 Para ver el conjunto de caracteres usados por crunch podemos revisar el siguiente archivo:
@@ -68,7 +68,8 @@ También podemos indicar un patrón + caracteres, números o símbolos:
 * , = upper case characters
 * % = numbers
 * ^ = symbols
-* Ejemplo Generar un listado que comience con un numero después la palabra lesand luego un símbolo, caracter mayuscula y minuscula.
+
+Ejemplo Generar un listado que comience con un numero después la palabra lesand luego un símbolo, caracter mayuscula y minuscula.
 ```
 crunch 10 10 -t %lesand^@,
 ```
