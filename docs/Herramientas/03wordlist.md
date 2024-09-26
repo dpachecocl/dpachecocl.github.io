@@ -18,7 +18,7 @@ tar -xzvf rockyou.txt.tar.gz && rm rockyou.txt.tar.gz
 nano /home/lesand/Desktop/tools/diccionarios/wordlist.py
 ```
 Pegar el siguiente contenido en el archivo
-```
+```python
 # Nombre del archivo
 nombre_archivo = "diccionario.txt"
 
@@ -32,35 +32,35 @@ with open(nombre_archivo, "w") as archivo:
 
 print(f"Se ha creado el archivo '{nombre_archivo}' con las palabras y números.")
 ```
-```
+```bash
 cd /home/lesand/Desktop/tools/diccionarios
 python3 wordlist.py  
 ```
 ## Ejemplo usando CRUNCH
 
 Crea combinaciones de mínimo 2 y máximo 2 palabras
-```
+```bash
 crunch 2 2 
 ```
 
 Para guardar usamos la opción -o y el nombre del archivo.
-```
+```bash
 cd /home/lesand/Desktop/tools/diccionarios
 crunch 2 2 -o crunch01.txt
 ```
 
 Para especificar caracteres podemos usar
-```
+```bash
 crunch 4 4 abc123 -o crunch02.txt
 ```
 
 Para ver el conjunto de caracteres usados por crunch podemos revisar el siguiente archivo:
-```
+```bash
 cat /usr/share/crunch/charset.lst
 ```
 
 Por defecto si no se especifica un conjunto de caracteres se usa **lalpha**, a continuacion seleccionaremos el charset por **hex-upper**:
-```
+```bash
 crunch 4 4 -f /usr/share/crunch/charset.lst hex-upper
 ```
 También podemos indicar un patrón + caracteres, números o símbolos:
@@ -70,16 +70,16 @@ También podemos indicar un patrón + caracteres, números o símbolos:
 * ^ = symbols
 
 Ejemplo Generar un listado que comience con un numero después la palabra lesand luego un símbolo, caracter mayuscula y minuscula.
-```
+```bash
 crunch 10 10 -t %lesand^@,
 ```
 
 Permutar entre una lista de palabras con 10 caracteres
-```
+```bash
 crunch 10 10 -p hola chao casa
 ```
 ## Ejemplo usando CEWL
-```
+```bash
 cewl -m 4 -a -e -w /home/lesand/Desktop/tools/diccionarios/ejemplocewl.txt https://dpachecocl.github.io
 ```
 Donde:
@@ -91,7 +91,7 @@ Donde:
 ```
 ## Ejemplo usando CUPP
 Lo ejecutamos y usaremos el modo interactivo.
-```
+```bash
 cd /home/lesand/Desktop/tools/cupp
 python3 cupp.py -i 
 ```
