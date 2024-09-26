@@ -16,7 +16,7 @@ tar -xzvf rockyou.txt.tar.gz && rm rockyou.txt.tar.gz
 ## Creacion de script en python para la generacion de diccionario
 ```bash
 nano /home/lesand/Desktop/tools/diccionarios/wordlist.py
-```
+```bash
 Pegar el siguiente contenido en el archivo
 ```python
 # Nombre del archivo
