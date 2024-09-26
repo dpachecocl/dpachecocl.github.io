@@ -32,3 +32,7 @@ with open(nombre_archivo, "w") as archivo:
 
 print(f"Se ha creado el archivo '{nombre_archivo}' con las palabras y números.")
 ```
+```
+cd /home/lesand/Desktop/tools/diccionarios
+python3 wordlist.py  
+```
