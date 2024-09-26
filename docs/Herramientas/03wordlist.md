@@ -6,8 +6,11 @@ nav_order: 3
 parent: "Herramientas"
 ---
 # **Wordlists**
-## Descarga de herramientas
-https://ns2.elhacker.net/wordlists/
-https://www.dragonjar.org/diccionarios-con-passwords-de-sitios-expuestos.xhtml
-https://www.dragonjar.org/diccionarios-con-passwords-de-sitios-expuestos.xhtml
-https://github.com/danielmiessler/SecLists/blob/master/Passwords/Leaked-Databases/rockyou.txt.tar.gz
+## Descarga de rockyou
+```
+cd
+mkdir /home/lesand/Desktop/tools/diccionarios
+cd /home/lesand/Desktop/tools/diccionarios
+wget https://github.com/danielmiessler/SecLists/raw/master/Passwords/Leaked-Databases/rockyou.txt.tar.gz
+tar -xzvf rockyou.txt.tar.gz && rm rockyou.txt.tar.gz
+```
