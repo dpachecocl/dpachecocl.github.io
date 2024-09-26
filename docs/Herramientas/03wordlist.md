@@ -68,7 +68,7 @@ También podemos indicar un patrón + caracteres, números o símbolos:
 * , = upper case characters
 * % = numbers
 * ^ = symbols
-*Ejemplo Generar un listado que comience con un numero después la palabra lesand luego un símbolo, caracter mayuscula y minuscula.
+* Ejemplo Generar un listado que comience con un numero después la palabra lesand luego un símbolo, caracter mayuscula y minuscula.
 ```
 crunch 10 10 -t %lesand^@,
 ```
