@@ -36,7 +36,7 @@ print(f"Se ha creado el archivo '{nombre_archivo}' con las palabras y números."
 cd /home/lesand/Desktop/tools/diccionarios
 python3 wordlist.py  
 ```
-### Ejemplo usando CRUNCH
+## Ejemplo usando CRUNCH
 
 Crea combinaciones de mínimo 2 y máximo 2 palabras
 ```
