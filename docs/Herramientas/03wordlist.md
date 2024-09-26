@@ -81,3 +81,10 @@ crunch 10 10 -p hola chao casa
 ```
 cewl -m 4 -a -e -w /home/lesand/Desktop/tools/diccionarios/ejemplocewl.txt https://dpachecocl.github.io
 ```
+Donde:
+```
+-m 4 : Longitud mínima de la palabra, por defecto 3
+-a : Incluye metadata
+-e: Incluye direcciones de email
+-w /home/user/Desktop/Diccionario.txt: Escribir en archivo de texto
+```
