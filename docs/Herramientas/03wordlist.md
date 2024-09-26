@@ -79,5 +79,5 @@ crunch 10 10 -p hola chao casa
 ```
 ## Ejemplo usando CEWL
 ```
-cewl -m 4 -a -e -w /home/lesand/Desktop/tools/diccionarios/diccionario01.txt https://dpachecocl.github.io
+cewl -m 4 -a -e -w /home/lesand/Desktop/tools/diccionarios/ejemplocewl.txt https://dpachecocl.github.io
 ```
