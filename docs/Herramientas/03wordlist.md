@@ -17,3 +17,18 @@ tar -xzvf rockyou.txt.tar.gz && rm rockyou.txt.tar.gz
 ```bash
 nano /home/lesand/Desktop/tools/diccionarios/wordlist.py
 ```
+Pegar el siguiente contenido en el archivo
+```
+# Nombre del archivo
+nombre_archivo = "diccionario.txt"
+
+# Abre el archivo en modo escritura y escribe los datos
+with open(nombre_archivo, "w") as archivo:
+    for numero in range(10000):
+        # Formatea el número como una cadena de 4 dígitos con ceros a la izquierda
+        numero_formateado = f"{numero:04}"
+        # Escribe "lesand" seguido del número formateado en el archivo
+        archivo.write(f"lesand{numero_formateado}\n")
+
+print(f"Se ha creado el archivo '{nombre_archivo}' con las palabras y números.")
+```
