@@ -88,3 +88,9 @@ Donde:
 -e: Incluye direcciones de email
 -w /home/user/Desktop/Diccionario.txt: Escribir en archivo de texto
 ```
+## Ejemplo usando CUPP
+Lo ejecutamos y usaremos el modo interactivo.
+```
+cd /home/lesand/Desktop/tools/cupp
+python3 cupp.py -i 
+```
