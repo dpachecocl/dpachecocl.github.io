@@ -1,6 +1,6 @@
 ---
 theme: "just-the-docs"
-title: "Plano Admin"
+title: "Plano Administracion"
 layout: default
 nav_order: 1
 parent: "Capturas"
