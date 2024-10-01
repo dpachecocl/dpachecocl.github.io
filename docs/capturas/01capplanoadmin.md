@@ -9,4 +9,4 @@ parent: "Capturas"
 Descargue la siguiente captura y busque información importante relacionada con el proceso de reconocimiento:
 [Captura01](https://github.com/dpachecocl/dpachecocl.github.io/raw/refs/heads/main/docs/capturas/Captura01.pcapng)
 
-**Objetivos:** Identificar contrasenas en texto plano, cifradas o hashes
+**Objetivos:** Identificar contraseñas en texto plano, cifradas o hashes
