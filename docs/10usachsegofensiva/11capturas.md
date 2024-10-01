@@ -10,12 +10,14 @@ Descargue la siguiente captura y busque información importante relacionada con 
 [Captura01](https://github.com/dpachecocl/dpachecocl.github.io/raw/refs/heads/main/docs/capturas/Captura01.pcapng)
 
 **Objetivos:** Identificar contraseñas en texto plano, cifradas o hashes e informacion relevante para el proceso de reconocimiento.
+
 **Desarrollo:**
-- Identificar usuario: lesand y password: lesand2022 en la sesión FTP
+
+- Identificar usuario: **lesand** y password: **lesand2022** en la sesión FTP
 - Descargar archivo de configuración enviado por FTP
 - Información de los dispositivos enviada por CDP
 - Descargar archivo de configuración enviado por TFTP
-- Identificar usuario: lesand y password: lesand2022 de la VTY en la sesión TELNET
+- Identificar usuario: **lesand** y password: **lesand2022** de la VTY en la sesión TELNET
 - Identificar la password para acceder al modo privilegiado en la sesión TELNET.
 - De los archivos descargados identificar la siguiente información:
 ```
