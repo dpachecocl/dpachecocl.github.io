@@ -13,7 +13,7 @@ cd /home/lesand/Desktop/tools/diccionarios
 wget https://github.com/danielmiessler/SecLists/raw/master/Passwords/Leaked-Databases/rockyou.txt.tar.gz
 tar -xzvf rockyou.txt.tar.gz && rm rockyou.txt.tar.gz
 ```
-## Creacion de script en python para la generacion de diccionario
+## Creacion de script en python para la generacion de diccionario (palabra+numeros)
 ```bash
 nano /home/lesand/Desktop/tools/diccionarios/wordlist.py
 ```
@@ -77,6 +77,11 @@ crunch 10 10 -t %lesand^@,
 Permutar entre una lista de palabras con 10 caracteres
 ```bash
 crunch 10 10 -p hola chao casa
+```
+## Creacion de diccionario (palabra+numeros) con crunch.
+```bash
+cd /home/lesand/Desktop/tools/diccionarios
+crunch 10 10 -t lesand%%%% -o diccionario2.txt
 ```
 ## Ejemplo usando CEWL
 ```bash
