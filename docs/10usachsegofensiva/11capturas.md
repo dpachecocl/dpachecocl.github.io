@@ -2,7 +2,7 @@
 theme: "just-the-docs"
 title: "NMAP"
 layout: default
-nav_order: 2
+nav_order: 11
 parent: "Herramientas"
 ---
 # Captura 01: Plano de administracion
