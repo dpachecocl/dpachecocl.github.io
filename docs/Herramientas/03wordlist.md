@@ -17,7 +17,6 @@ tar -xzvf rockyou.txt.tar.gz && rm rockyou.txt.tar.gz
 ```bash
 nano /home/lesand/Desktop/tools/diccionarios/wordlist.py
 ```
-```bash
 Pegar el siguiente contenido en el archivo
 ```python
 # Nombre del archivo
