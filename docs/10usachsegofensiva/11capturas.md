@@ -1,9 +1,9 @@
 ---
 theme: "just-the-docs"
-title: "NMAP"
+title: "Capturas"
 layout: default
 nav_order: 11
-parent: "Herramientas"
+parent: "Seguridad Ofensiva"
 ---
 # Captura 01: Plano de administracion
 Descargue la siguiente captura y busque información importante relacionada con el proceso de reconocimiento:
