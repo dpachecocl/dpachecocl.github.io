@@ -35,3 +35,11 @@ nmap -p 23 --script telnet-brute --script-args userdb=usuarios.txt,passdb=dicc.t
 ```bash
 hydra -L usuarios.txt -P dicc.txt telnet://192.168.85.134
 ```
+## Winbox/API Mikrotik
+### MKBRUTUS
+```bash
+cd /home/lesand/Desktop/tools
+git clone https://github.com/mkbrutusproject/MKBRUTUS.git
+cd MKBRUTUS
+python3 mkbrutus.py -t 192.168.85.134 -d /home/lesand/Desktop/tools/diccionarios/dicc.txt
+```
