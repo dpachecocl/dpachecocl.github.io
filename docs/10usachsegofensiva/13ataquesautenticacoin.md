@@ -10,7 +10,7 @@ parent: "Seguridad Ofensiva"
 ```bash
 cd /home/lesand/Desktop/tools/diccionarios  
 echo -e "admin\nroot" > usuarios.txt
-echo -e "lesand2222\nlesand3333\nlesand1111\nlesand4321\nlesand1234\lesand2020\nlesand2022\nlesand2023\nlesand2024\nlesand2025" > dicc.txt
+echo -e "lesand2222\nlesand3333\nlesand1111\nlesand4321\nlesand1234\nlesand2020\nlesand2022\nlesand2023\nlesand2024\nlesand2025" > dicc.txt
 ```
 ## FTP
 ### NMAP
