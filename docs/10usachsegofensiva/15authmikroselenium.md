@@ -50,5 +50,6 @@ with open('archivo.txt', 'r') as archivo:
                 break
             else:
                 print(f"Probando contraseña: {contrasena}")
-```
+
             titulo_anterior = titulo_actual
+```
