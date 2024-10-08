@@ -158,5 +158,11 @@ with open('archivo.txt', 'r') as archivo:
     for linea in archivo:
         palabra = linea.strip()
         print(palabra)
-
+```
+**Resultado:**
+```
+uno
+casa
+arbol
+auto
 ```
