@@ -152,7 +152,6 @@ for x in range(5,15):
 ```bash
 echo -e "uno\ncasa\narbol\nauto" > archivo.txt
 ```
-
 ```python
 with open('archivo.txt', 'r') as archivo:
     for linea in archivo:
