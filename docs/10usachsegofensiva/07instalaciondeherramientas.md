@@ -24,8 +24,8 @@ Descargar Burp Suite Community Edition desde: [https://portswigger.net/burp/rele
 
 ```bash
 cd ~/Downloads
-chmod +x burpsuite_community_linux_v2024_8_1.sh
-./burpsuite_community_linux_v2024_8_1.sh
+chmod +x burpsuite_community_linux*.sh
+./burpsuite_community_linux*.sh
 ```
 Luego instalar con todas las opciones por defecto de forma grafica.
 
