@@ -8,6 +8,7 @@ parent: "Seguridad Ofensiva"
 # Explotacion CVE-2018-14847
 ```bash
 cd /home/lesand/Desktop/tools/selenium
+echo -e "lesand2222\nlesand3333\nlesand1111\nlesand4321\nlesand1234\nlesand2020\nlesand2022\nlesand2023\nlesand2024\nlesand2025" > archivo.txt
 nano selenium02.py
 ```
 pegar el siguiente script
