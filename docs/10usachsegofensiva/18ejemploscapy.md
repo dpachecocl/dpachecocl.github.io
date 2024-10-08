@@ -9,7 +9,7 @@ parent: "Seguridad Ofensiva"
 ## Ejecucion de modo interactivo.
 `sudo scapy`
 ## Funciones basicas
-`ls()` : Lista los protocolos disponibles en scapy.
-`lsc()` : Lista los comandos disponibles en scapy.
-`send` : Envia PDU en layer 3
-`sendp` : Envia PDU en layer 2
+- `ls()` : Lista los protocolos disponibles en scapy.
+- `lsc()` : Lista los comandos disponibles en scapy.
+- `send` : Envia PDU en layer 3
+- `sendp` : Envia PDU en layer 2
