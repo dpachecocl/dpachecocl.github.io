@@ -49,6 +49,7 @@ print(resultado)
 ```
 hola como estas?
 ```
+
 ## `def`
 Permite definir una función, se debe indicar el nombre de la función y se pueden incluir entre paréntesis los parámetros seguido de dos puntos. Las funciones son bloques de código reutilizables que pueden tomar argumentos
 ### Ejemplo 1:
@@ -78,6 +79,7 @@ ASD(1, 2 )
 ```
 la suma de: 1 + 2 + es: 3
 ```
+
 ## `for`
 La función `for` en python  se usa para iterar sobre una secuencia (como una lista, una tupla, un diccionario, un conjunto o una cadena)
 ### Ejemplo 1 (lista):
@@ -146,7 +148,6 @@ for x in range(5,15):
 14
 ```
 ### Ejemplo 3.2 (Iterar de un archivo):
-
 **Crear un archivo:** Crearemos un archivo con 4 palabras para el ejemplo.
 ```bash
 echo -e "uno\ncasa\narbol\nauto" > archivo.txt
