@@ -60,6 +60,7 @@ Por defecto si no se especifica un conjunto de caracteres se usa **lalpha**, a c
 ```bash
 crunch 4 4 -f /usr/share/crunch/charset.lst hex-upper
 ```
+
 También podemos indicar un patrón + caracteres, números o símbolos:
 * @ = lower case characters
 * , = upper case characters
