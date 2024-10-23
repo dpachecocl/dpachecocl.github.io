@@ -15,9 +15,13 @@ parent: "ARRAY DIINF 2024"
 [Display Filters - Wireshark](https://wiki.wireshark.org/DisplayFilters)
 
 # GHDB
+```
 intext:"WebFig Login" & intitle:"RouterOS router configuration page"
+```
 # Shodan
+```
 mikrotik os:"MikroTik RouterOS 6.22"
+```
 # NMAP
 # Ejemplos Nmap
 - `nmap -p 22 localhost`  
