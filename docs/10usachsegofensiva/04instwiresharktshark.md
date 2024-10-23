@@ -19,15 +19,8 @@ sudo apt-get install tshark -y
 
 ```bash
 sudo usermod -aG wireshark lesand
-```
-```bash
 sudo chgrp wireshark /usr/bin/dumpcap
-```
-```bash
 sudo chmod 750 /usr/bin/dumpcap
-```
-
-```bash
 sudo setcap cap_net_raw,cap_net_admin=eip /usr/bin/dumpcap
 ```
 ```bash
