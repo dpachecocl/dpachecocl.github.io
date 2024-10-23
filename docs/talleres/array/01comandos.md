@@ -42,3 +42,7 @@ interface enable 0
 ```
 interface disable 0
 ```
+## Comandos Ubuntu
+```
+ip addr
+```
