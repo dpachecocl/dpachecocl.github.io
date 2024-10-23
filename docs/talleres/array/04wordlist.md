@@ -75,10 +75,10 @@ crunch 10 10 -p hola chao casa
 ```
 ## Creacion de diccionario (palabra+numeros) con crunch.
 ```bash
-cd /home/lesand/Desktop/tools/diccionarios
 crunch 10 10 -t lesand%%%%
 ```
 ```bash
+cd /home/lesand/Desktop/tools/diccionarios
 crunch 10 10 -t lesand%%%% -o diccionario.txt -s lesand2000 -e lesand3000
 ```
 ## Ejemplo usando CEWL
