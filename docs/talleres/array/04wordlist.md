@@ -81,7 +81,7 @@ crunch 10 10 -t lesand%%%%
 ```
 ```bash
 cd /home/lesand/Desktop/tools/diccionarios
-crunch 10 10 -t lesand%%%% -o diccionario.txt -s lesand2000 -e lesand3000
+crunch 10 10 -t lesand%%%% -o diccionario.txt -s lesand2000 -e lesand2099
 ```
 ## Ejemplo usando CEWL
 ```bash
