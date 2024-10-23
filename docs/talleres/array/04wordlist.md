@@ -78,6 +78,9 @@ crunch 10 10 -p hola chao casa
 cd /home/lesand/Desktop/tools/diccionarios
 crunch 10 10 -t lesand%%%%
 ```
+```bash
+crunch 10 10 -t lesand%%%% -o diccionario.txt -s lesand2000 -e lesand3000
+```
 ## Ejemplo usando CEWL
 ```bash
 cewl -m 4 -a -e -w /home/lesand/Desktop/tools/diccionarios/ejemplocewl.txt https://dpachecocl.github.io
