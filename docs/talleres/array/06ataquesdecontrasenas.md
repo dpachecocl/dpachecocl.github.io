@@ -16,3 +16,6 @@ python3 ciscot7.py -d -p '10420C0A041916595C5678'
 ```bash
 hashcat -m 500 -a 0 '$1$uumX$4iDPCazWt.4qdJ5VYlakF/' /home/lesand/Desktop/tools/diccionarios/diccionario.txt
 ```
+```bash
+sudo cat ~/.local/share/hashcat/hashcat.potfile
+```
