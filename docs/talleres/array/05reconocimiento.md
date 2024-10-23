@@ -6,11 +6,14 @@ nav_order: 5
 parent: "ARRAY DIINF 2024"
 ---
 # Wireshark
-https://github.com/dpachecocl/dpachecocl.github.io/blob/main/docs/capturas/Captura01.pcapng
+[Captura01.pcapng](https://github.com/dpachecocl/dpachecocl.github.io/blob/main/docs/capturas/Captura01.pcapng)
+
 ## Capture Filter
-https://wiki.wireshark.org/CaptureFilters
-##  Display Filter
-https://wiki.wireshark.org/DisplayFilters
+[Capture Filters - Wireshark](https://wiki.wireshark.org/CaptureFilters)
+
+## Display Filter
+[Display Filters - Wireshark](https://wiki.wireshark.org/DisplayFilters)
+
 # GHDB
 intext:"WebFig Login" & intitle:"RouterOS router configuration page"
 # Shodan
