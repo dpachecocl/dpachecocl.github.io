@@ -67,6 +67,7 @@ También podemos indicar un patrón + caracteres, números o símbolos:
 * % = numbers
 * ^ = symbols
 Ejemplo Generar un listado que comience con un numero después la palabra lesand luego un símbolo, caracter mayuscula y minuscula.
+
 ```bash
 crunch 10 10 -t %lesand^@,
 ```
