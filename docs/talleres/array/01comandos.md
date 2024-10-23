@@ -36,9 +36,9 @@ _Donde 0 representa el # de la interfaz_
 
 ### Activar interface 0
 ```
-# interface enable 0
+interface enable 0
 ```
 ### Desactivar interface 0
 ```
-# interface disable 0
+interface disable 0
 ```
