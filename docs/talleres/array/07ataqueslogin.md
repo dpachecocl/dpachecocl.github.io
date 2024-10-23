@@ -12,6 +12,9 @@ echo "admin" > archivo.txt
 # Ataque TELNET
 ## NMAP
 ```bash
+ls /usr/share/nmap/scripts/
+```
+```bash
 hydra -L usuarios.txt -P diccionario.txt telnet://192.168.85.134
 ```
 # Ataque FTP
