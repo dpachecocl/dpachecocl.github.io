@@ -6,10 +6,6 @@ nav_order: 4
 parent: "ARRAY DIINF 2024"
 ---
 # Wordlist (Diccionario)
-```bash
-mkdir /home/lesand/Desktop/tools/diccionarios
-```
-
 ## Descarga de rockyou
 ```bash
 mkdir /home/lesand/Desktop/tools/diccionarios
