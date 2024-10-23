@@ -50,7 +50,7 @@ crunch 2 2 -o crunch01.txt
 ```
 Para especificar caracteres podemos usar
 ```bash
-crunch 4 4 abc123 -o crunch02.txt
+crunch 4 4 abc123
 ```
 Para ver el conjunto de caracteres usados por crunch podemos revisar el siguiente archivo:
 ```bash
@@ -76,7 +76,7 @@ crunch 10 10 -p hola chao casa
 ## Creacion de diccionario (palabra+numeros) con crunch.
 ```bash
 cd /home/lesand/Desktop/tools/diccionarios
-crunch 10 10 -t lesand%%%% -o diccionario2.txt
+crunch 10 10 -t lesand%%%%
 ```
 ## Ejemplo usando CEWL
 ```bash
