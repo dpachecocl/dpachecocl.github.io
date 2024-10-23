@@ -21,7 +21,7 @@ nano /home/lesand/Desktop/tools/diccionarios/wordlist.py
 Pegar el siguiente contenido en el archivo
 ```python
 # Nombre del archivo
-nombre_archivo = "diccionario.txt"
+nombre_archivo = "diccionario2.txt"
 
 # Abre el archivo en modo escritura y escribe los datos
 with open(nombre_archivo, "w") as archivo:
