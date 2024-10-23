@@ -7,7 +7,7 @@ parent: "ARRAY DIINF 2024"
 ---
 ```bash
 cd /home/lesand/Desktop/tools/diccionarios
-echo "admin" > archivo.txt
+echo "admin" > usuarios.txt
 ```
 # Ataque TELNET
 ## NMAP
