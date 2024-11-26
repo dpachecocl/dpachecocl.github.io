@@ -1,9 +1,8 @@
 ---
 theme: "just-the-docs"
-title: "Mejoras de la Terminal"
+title: "Mejoras Ubuntu"
 layout: default
-nav_order: 2
-parent: "Ubuntu" 
+nav_order: 3
 ---
 # Mejoras de la terminal
 ## Actualización
