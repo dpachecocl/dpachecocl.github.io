@@ -1,9 +1,20 @@
+# Información básica del sitio
 title: DPACHECO
 description: Networking - Ciberseguridad
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
-color_scheme: dark
+# Configuración de URL (importante para GitHub Pages)
+url: https://dpachecocl.github.io   # Cambia a la URL real de tu sitio
+baseurl: /docs                     # Ruta base del sitio en GitHub Pages
+
+# Tema y esquema de colores
+color_scheme: dark                 # Esquema de colores (light o dark)
+
+# Recursos personalizados
 assets:
   css:
-    - assets/css/custom.css
+    - assets/css/custom.css        # Ruta del archivo CSS personalizado
+
+# Configuración opcional para búsqueda y navegación
+search_enabled: true               # Activa la barra de búsqueda
+
