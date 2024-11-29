@@ -4,4 +4,6 @@ theme: just-the-docs
 
 url: https://just-the-docs.github.io
 color_scheme: dark
-# baseurl: "/docs"
+assets:
+  css:
+    - assets/css/custom.css
