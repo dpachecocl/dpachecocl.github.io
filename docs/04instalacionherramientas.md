@@ -1,6 +1,6 @@
 ---
 theme: "just-the-docs"
-title: "Descargas de herramientas"
+title: "Instalacion de herramientas"
 layout: default
 nav_order: 4
 ---
