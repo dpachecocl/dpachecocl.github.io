@@ -4,9 +4,7 @@ title: "Instalacion de herramientas"
 layout: default
 nav_order: 4
 ---
-# **Instalación**
-
-## VMWare Workstation 17.
+# **Instalación VMWare Workstation 17.**
 * Instalamos el software con todas las opciones predeterminadas.
 * En la opción de licencia, seleccionamos "Ingresar después".
 * Al abrir VMware Workstation, seleccionamos la opción "Use VMware Workstation for Personal Use", luego continuamos y finalizamos.
@@ -16,8 +14,6 @@ C:\WINDOWS\system32> net localgroup /add "Authenticated Users"
 PS C:\WINDOWS\system32> net localgroup /add "Users"
 PS C:\WINDOWS\system32> net localgroup /add "Administrators"
 ```
-
-
 ## Ubuntu Desktop.
 * Una vez iniciado VMware, seleccionamos la opción de crear una nueva máquina virtual.
 * Elegimos la opción **Typical (recommended)**.
