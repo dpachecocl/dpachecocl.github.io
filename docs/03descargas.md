@@ -2,8 +2,7 @@
 theme: "just-the-docs"
 title: "Descargas de herramientas"
 layout: default
-nav_order: 1
-parent: "Seguridad Ofensiva"
+nav_order: 3
 ---
 # **Descargas de herramientas.**
 
