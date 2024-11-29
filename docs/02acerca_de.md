@@ -23,27 +23,27 @@ Magíster en Seguridad, Peritaje y Auditoría en Procesos Informáticos, con má
 * **2012:**  Instructor Trainer CCENT. (Cisco Networking Academy)
 
 ## ANTECEDENTES LABORALES
-* 2019 – Actualidad:  Ingeniero de Seguridad en Redes Senior. (Redbanc)
-* 2022 – Actualidad:  Director Académico y Docente, Programa Diplomado en Seguridad (Capacitación USACH)
-* 2005 – 2019:  Docente del Área Telecomunicaciones, Conectividad y Redes. (Universidad Tecnológica de Chile INACAP)
-* 2005 – 2020: Instructor Trainer (Cisco Networking Academy)
-* 2005-2006:  Docente de Telecomunicaciones.(Fundación Belén Educa).
-* 1998-2005:  Técnico de Soporte (CINCATEL)
+* **2019 – Actualidad:**  Ingeniero de Seguridad en Redes Senior. (Redbanc)
+* **2022 – Actualidad:**  Director Académico y Docente, Programa Diplomado en Seguridad (Capacitación USACH)
+* **2005 – 2019:**  Docente del Área Telecomunicaciones, Conectividad y Redes. (Universidad Tecnológica de Chile INACAP)
+* **2005 – 2020:** Instructor Trainer (Cisco Networking Academy)
+* **2005-2006:**  Docente de Telecomunicaciones.(Fundación Belén Educa).
+* **1998-2005:**  Técnico de Soporte (CINCATEL)
 
 ## EMPRENDIMIENTOS Y PROYECTOS:
-* 2022– Actualidad			Fundador y Director General (Lesand SpA)
-* 2022– Actualidad  Líder comunidad Lesand.
+* **2022– Actualidad**			Fundador y Director General (Lesand SpA)
+* **2022– Actualidad**  Líder comunidad Lesand.
 
 ## COMUNICACIÓN Y PONENCIAS:
-* 2024:  Taller de seguridad ofensiva en redes - ARRAY (DIINF USACH)
-* 2022:  Editorial: "Seguridad en redes de comunicaciones: Perspectivas y desafíos" (Ingeniare, Revista chilena de ingeniería)
-* 2019:  Conferencia magistral para los alumnos del curso CISCO SECURITY (Escuela Tecnológica Superior, Universidad de Piura)
-* 2019:  Packet Crafting usando Scapy
-* 2018:  Análisis de vulnerabilidades en protocolo de networking realizando captura de tráfico (Patagonia Hacking)
-* 2017:  Automatizando el análisis pasivo de vulnerabilidades en protocolos de networking (8.8 Solidaria)
-* 2017:  Packet Crafting (Patagonia Hacking)
-* 2014:  Uso de las TICs en la Educación (UNGE)
-* 2012:  El uso del foro en la enseñanza: una instancia de aprendizaje colaborativo y competitivo en el Área de Telecomunicaciones. (Seminario Nacional de Buenas Prácticas)
+* **2024:**  Taller de seguridad ofensiva en redes - ARRAY (DIINF USACH)
+* **2022:**  Editorial: "Seguridad en redes de comunicaciones: Perspectivas y desafíos" (Ingeniare, Revista chilena de ingeniería)
+* **2019:**  Conferencia magistral para los alumnos del curso CISCO SECURITY (Escuela Tecnológica Superior, Universidad de Piura)
+* **2019:**  Packet Crafting usando Scapy
+* **2018:**  Análisis de vulnerabilidades en protocolo de networking realizando captura de tráfico (Patagonia Hacking)
+* **2017:**  Automatizando el análisis pasivo de vulnerabilidades en protocolos de networking (8.8 Solidaria)
+* **2017:**  Packet Crafting (Patagonia Hacking)
+* **2014:**  Uso de las TICs en la Educación (UNGE)
+* **2012:**  El uso del foro en la enseñanza: una instancia de aprendizaje colaborativo y competitivo en el Área de Telecomunicaciones. (Seminario Nacional de Buenas Prácticas)
 
 ## Contacto
 - **Correo:** [daniel.pacheco@usach.cl](mailto:daniel.pacheco@usach.cl)
