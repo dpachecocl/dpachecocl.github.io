@@ -4,7 +4,7 @@ title: "Acerca de"
 layout: default
 nav_order: 2
 ---
-# Daniel Sebastian Pacheco Pacheco
+# **Daniel Sebastian Pacheco Pacheco**
 
 ## RESUMEN PROFESIONAL
 Magíster en Seguridad, Peritaje y Auditoría en Procesos Informáticos, con más de 20 años de experiencia en ciberseguridad, seguridad de redes y formación técnica. Especialista en ciberdefensa ofensiva y defensiva con un enfoque técnico. Cuenta con una destacada trayectoria académica en la formación de instructores y el diseño curricular. Reconocido por su excelencia académica y su participación como expositor en diversos eventos de TI en Chile y el extranjero.
