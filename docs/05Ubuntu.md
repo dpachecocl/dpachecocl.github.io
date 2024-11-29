@@ -1,6 +1,6 @@
 ---
 theme: "just-the-docs"
-title: "ubuntu"
+title: "Ubuntu"
 layout: default
 nav_order: 5
 ---
