@@ -14,6 +14,7 @@ C:\WINDOWS\system32> net localgroup /add "Authenticated Users"
 PS C:\WINDOWS\system32> net localgroup /add "Users"
 PS C:\WINDOWS\system32> net localgroup /add "Administrators"
 ```
+
 # **Ubuntu Desktop.**
 * Una vez iniciado VMware, seleccionamos la opción de crear una nueva máquina virtual.
 * Elegimos la opción **Typical (recommended)**.
@@ -31,6 +32,7 @@ PS C:\WINDOWS\system32> net localgroup /add "Administrators"
 * Una vez finalizada la instalación, reiniciamos.
 
 # **GNS3 VM**
+
 ## GNS3 VM.
 * Descomprimimos el archivo descargado.
 * Ejecutamos el archivo **GNS3 VM.ova**.
