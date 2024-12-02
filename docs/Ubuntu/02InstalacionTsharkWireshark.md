@@ -1,6 +1,6 @@
 ---
 theme: "just-the-docs"
-title: "Mejoras de la Terminal"
+title: "Instalacion Wireshark &^Tshark"
 layout: default
 nav_order: 2
 parent: "Ubuntu" 
