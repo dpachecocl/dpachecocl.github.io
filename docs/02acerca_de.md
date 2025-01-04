@@ -15,12 +15,21 @@ Magíster en Seguridad, Peritaje y Auditoría en Procesos Informáticos, con má
 * Ingeniero en Ciberseguridad (CIISA)
 * Tecnico en Electricidad Industrial (Liceo Industrial Italia)
 
-## OTROS ANTECEDENTES ACADEMICOS
+## CERTIFICACIONES
 * **2021:**  Certificado en Gobierno y Gestión de la Ciberseguridad usando el NIST CSF. (Capacitación USACH)
 * **2021:**  Certificado en Implementador PCI/DSS. (Capacitación USACH)
 * **2020:**  Instructor Trainer CCNA Cybersecurity Operations. (Cisco Networking Academy)
 * **2012:**  Instructor Trainer CCNA R&S. (Cisco Networking Academy)
 * **2012:**  Instructor Trainer CCENT. (Cisco Networking Academy)
+
+## ACREDITACIONES CISCO NETWORKING ACADEMY
+* CCNA: Introduction to Networks
+* CCNA: Switching, Routing, and Wireless Essentials
+* CCNA: Enterprise Networking, Security, and Automation
+* Network Security
+* CyberOps Associate
+* CCNP Enterprise: Core Networking
+* CCNP Enterprise: Advanced Routing
 
 ## ANTECEDENTES LABORALES
 * **2019 – Actualidad:**  Ingeniero de Seguridad en Redes Senior. (Redbanc)
