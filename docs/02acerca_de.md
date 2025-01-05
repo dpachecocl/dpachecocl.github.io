@@ -41,7 +41,7 @@ Magíster en Seguridad, Peritaje y Auditoría en Procesos Informáticos, con má
 
 ## EMPRENDIMIENTOS Y PROYECTOS:
 * **2022– Actualidad**			Fundador y Director General (Lesand SpA)
-* **2022– Actualidad**  Líder comunidad Lesand.
+* **2009– Actualidad**  Líder comunidad Lesand.
 
 ## COMUNICACIÓN Y PONENCIAS:
 * **2024:**  Taller de seguridad ofensiva en redes - ARRAY (DIINF USACH)
