@@ -40,8 +40,8 @@ Magíster en Seguridad, Peritaje y Auditoría en Procesos Informáticos, con má
 * **1998-2005:**  Técnico de Soporte (CINCATEL)
 
 ## EMPRENDIMIENTOS Y PROYECTOS:
-* **2022– Actualidad**			Fundador y Director General (Lesand SpA)
-* **2009– Actualidad**  Líder comunidad Lesand.
+* **2022– Actualidad:**			Fundador y Director General (Lesand SpA)
+* **2009– Actualidad:**  Líder comunidad Lesand.
 
 ## COMUNICACIÓN Y PONENCIAS:
 * **2024:**  Taller de seguridad ofensiva en redes - ARRAY (DIINF USACH)
